@@ -1,0 +1,19 @@
+
+coin-font.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font
+  rotate: false
+  xy: 0, 16
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 0, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

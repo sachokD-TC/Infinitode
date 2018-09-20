@@ -1,0 +1,65 @@
+<categories>
+  <c alias="ROOT" title="gu_title_ROOT" description="gu_description_ROOT" icon="gu-root"/>
+  <c alias="MAP_EDITOR_MAP_SIZE" title="gu_title_MAP_EDITOR_MAP_SIZE" description="gu_description_MAP_EDITOR_MAP_SIZE" icon="main-menu-icon-map-editor" has-levels="true"/>
+  <c alias="FORCE_WAVE_ABILITY" title="gu_title_FORCE_WAVE_ABILITY" description="gu_description_FORCE_WAVE_ABILITY" icon="game-gui-stopwatch-active"/>
+  <c alias="TOWER_TYPE_BASIC" title="tower_name_BASIC" description="tower_description_BASIC" icon="tower-base-0"/>
+  <c alias="TOWER_PRICE" title="gu_title_TOWER_PRICE" description="gu_description_TOWER_PRICE" icon="gu-build-price" has-levels="true"/>
+  <c alias="TOWER_RANGE" title="gu_title_TOWER_RANGE" description="gu_description_TOWER_RANGE" icon="tower-stat-range" has-levels="true"/>
+  <c alias="TOWER_ATTACK_SPEED" title="gu_title_TOWER_ATTACK_SPEED" description="gu_description_TOWER_ATTACK_SPEED" icon="tower-stat-attack-speed" has-levels="true"/>
+  <c alias="TOWER_MAX_UPGRADE_LEVEL" title="gu_title_TOWER_MAX_UPGRADE_LEVEL" description="gu_description_TOWER_MAX_UPGRADE_LEVEL" icon="gu-max-upgrade-level" has-levels="true"/>
+  <c alias="TOWER_U_DAMAGE_MULTIPLIER" title="gu_title_TOWER_U_DAMAGE_MULTIPLIER" description="gu_description_TOWER_U_DAMAGE_MULTIPLIER" icon="tower-stat-damage-multiply" has-levels="true"/>
+  <c alias="TOWER_ROTATION_N_PROJECTILE_SPEED" title="gu_title_TOWER_ROTATION_N_PROJECTILE_SPEED" description="gu_description_TOWER_ROTATION_N_PROJECTILE_SPEED" icon="tower-stat-rotation-n-projectile-speed" has-levels="true"/>
+  <c alias="TOWER_MAX_TOWER_LEVEL" title="gu_title_TOWER_MAX_TOWER_LEVEL" description="gu_description_TOWER_MAX_TOWER_LEVEL" icon="gu-max-tower-level" has-levels="true"/>
+  <c alias="TOWER_DAMAGE" title="gu_title_TOWER_DAMAGE" description="gu_description_TOWER_DAMAGE" icon="tower-stat-damage" has-levels="true"/>
+  <c alias="TOWER_STARTING_EXPERIENCE" title="gu_title_TOWER_STARTING_EXPERIENCE" description="gu_description_TOWER_STARTING_EXPERIENCE" icon="gu-starting-experience"/>
+  <c alias="TOWER_EXPERIENCE_BONUS" title="gu_title_TOWER_EXPERIENCE_BONUS" description="gu_description_TOWER_EXPERIENCE_BONUS" icon="gu-experience-bonus"/>
+  <c alias="TOWER_EXPERIENCE_GENERATION" title="gu_title_TOWER_EXPERIENCE_GENERATION" description="gu_description_TOWER_EXPERIENCE_GENERATION" icon="gu-experience-generation"/>
+  <c alias="TOWER_UPGRADE_PRICE" title="gu_title_TOWER_UPGRADE_PRICE" description="gu_description_TOWER_UPGRADE_PRICE" icon="gu-upgrade-price" has-levels="true"/>
+  <c alias="TOWER_TYPE_VENOM" title="tower_name_VENOM" description="tower_description_VENOM" icon="tower-base-4"/>
+  <c alias="TOWER_POISON_DAMAGE" title="gu_title_TOWER_POISON_DAMAGE" description="gu_description_TOWER_POISON_DAMAGE" icon="tower-stat-poison-damage" has-levels="true"/>
+  <c alias="GAME_SPEED_X2" title="gu_title_GAME_SPEED_X2" description="gu_description_GAME_SPEED_X2" icon="game-gui-speed-yellow"/>
+  <c alias="GAME_SPEED_X4" title="gu_title_GAME_SPEED_X4" description="gu_description_GAME_SPEED_X4" icon="game-gui-speed-red"/>
+  <c alias="FORCED_WAVE_BONUS" title="gu_title_FORCED_WAVE_BONUS" description="gu_description_FORCED_WAVE_BONUS" icon="gu-forced-wave-bonus" has-levels="true"/>
+  <c alias="TOWER_TYPE_SPLASH" title="tower_name_SPLASH" description="tower_description_SPLASH" icon="tower-base-5"/>
+  <c alias="TOWER_ACCURACY" title="gu_title_TOWER_ACCURACY" description="gu_description_TOWER_ACCURACY" icon="tower-stat-accuracy" has-levels="true"/>
+  <c alias="TOWER_S_COMBO_HIT_DAMAGE" title="gu_title_TOWER_S_COMBO_HIT_DAMAGE" description="gu_description_TOWER_S_COMBO_HIT_DAMAGE" icon="tower-stat-combo-hit-damage" has-levels="true"/>
+  <c alias="TOWER_U_PROJECTILE_COUNT" title="gu_title_TOWER_U_PROJECTILE_COUNT" description="gu_description_TOWER_U_PROJECTILE_COUNT" icon="tower-stat-projectile-count" has-levels="true"/>
+  <c alias="TOWER_TYPE_FROST" title="tower_name_FROST" description="tower_description_FROST" icon="tower-base-3"/>
+  <c alias="STARTING_HEALTH" title="gu_title_STARTING_HEALTH" description="gu_description_STARTING_HEALTH" icon="game-gui-health" has-levels="true"/>
+  <c alias="TOWER_U_POISON_DURATION_BONUS" title="gu_title_TOWER_U_POISON_DURATION_BONUS" description="gu_description_TOWER_U_POISON_DURATION_BONUS" icon="tower-stat-poison-duration-bonus" has-levels="true"/>
+  <c alias="TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" title="gu_title_TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" description="gu_description_TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" icon="tower-stat-chain-length-bonus" has-levels="true"/>
+  <c alias="TOWER_FREEZE_SPEED" title="gu_title_TOWER_FREEZE_SPEED" description="gu_description_TOWER_FREEZE_SPEED" icon="tower-stat-freeze-time" has-levels="true"/>
+  <c alias="TOWER_MELTDOWN_SPEED" title="gu_title_TOWER_MELTDOWN_SPEED" description="gu_description_TOWER_MELTDOWN_SPEED" icon="tower-stat-freeze-meltdown-time" has-levels="true"/>
+  <c alias="TOWER_FREEZE_PERCENT" title="gu_title_TOWER_FREEZE_PERCENT" description="gu_description_TOWER_FREEZE_PERCENT" icon="tower-stat-freeze-percent" has-levels="true"/>
+  <c alias="TOWER_TYPE_AIR" title="tower_name_AIR" description="tower_description_AIR" icon="tower-base-9"/>
+  <c alias="TOWER_S_BURN_DAMAGE" title="gu_title_TOWER_S_BURN_DAMAGE" description="gu_description_TOWER_S_BURN_DAMAGE" icon="tower-stat-burn-damage" has-levels="true"/>
+  <c alias="TOWER_U_BURN_CHANCE" title="gu_title_TOWER_U_BURN_CHANCE" description="gu_description_TOWER_U_BURN_CHANCE" icon="tower-stat-burn-chance" has-levels="true"/>
+  <c alias="TOWER_S_BURN_DURATION" title="gu_title_TOWER_S_BURN_DURATION" description="gu_description_TOWER_S_BURN_DURATION" icon="tower-stat-burn-duration" has-levels="true"/>
+  <c alias="STARTING_MONEY" title="gu_title_STARTING_MONEY" description="gu_description_STARTING_MONEY" icon="game-gui-money" has-levels="true"/>
+  <c alias="TOWER_TYPE_MULTISHOT" title="tower_name_MULTISHOT" description="tower_description_MULTISHOT" icon="tower-base-7"/>
+  <c alias="TOWER_U_SHOT_ANGLE" title="gu_title_TOWER_U_SHOT_ANGLE" description="gu_description_TOWER_U_SHOT_ANGLE" icon="tower-stat-shot-angle" has-levels="true"/>
+  <c alias="TOWER_TYPE_MINIGUN" title="tower_name_MINIGUN" description="tower_description_MINIGUN" icon="tower-base-8"/>
+  <c alias="TOWER_ROTATION_SPEED" title="gu_title_TOWER_ROTATION_SPEED" description="gu_description_TOWER_ROTATION_SPEED" icon="tower-stat-rotation-speed" has-levels="true"/>
+  <c alias="TOWER_U_SPEED_UP_TIME" title="gu_title_TOWER_U_SPEED_UP_TIME" description="gu_description_TOWER_U_SPEED_UP_TIME" icon="tower-stat-speed-up-time" has-levels="true"/>
+  <c alias="TOWER_TYPE_MISSILE" title="tower_name_MISSILE" description="tower_description_MISSILE" icon="tower-base-11"/>
+  <c alias="TOWER_S_MISSILE_LIFE_TIME" title="gu_title_TOWER_S_MISSILE_LIFE_TIME" description="gu_description_TOWER_S_MISSILE_LIFE_TIME" icon="tower-stat-missile-life-time" has-levels="true"/>
+  <c alias="TOWER_U_PROJECTILE_EXPLOSION_RANGE" title="gu_title_TOWER_U_PROJECTILE_EXPLOSION_RANGE" description="gu_description_TOWER_U_PROJECTILE_EXPLOSION_RANGE" icon="tower-stat-explosion-range" has-levels="true"/>
+  <c alias="TOWER_U_LRM_AIM_TIME" title="gu_title_TOWER_U_LRM_AIM_TIME" description="gu_description_TOWER_U_LRM_AIM_TIME" icon="tower-stat-lrm-aim-time" has-levels="true"/>
+  <c alias="TOWER_S_MISSILE_ROTATION_SPEED" title="gu_title_TOWER_S_MISSILE_ROTATION_SPEED" description="gu_description_TOWER_S_MISSILE_ROTATION_SPEED" icon="tower-stat-missile-rotation-speed" has-levels="true"/>
+  <c alias="TOWER_S_MINIMUM_RANGE" title="gu_title_TOWER_S_MINIMUM_RANGE" description="gu_description_TOWER_S_MINIMUM_RANGE" icon="tower-stat-minimum-range" has-levels="true"/>
+  <c alias="WAVE_DELAY" title="gu_title_WAVE_DELAY" description="gu_description_WAVE_DELAY" icon="gu-wave-delay" has-levels="true"/>
+  <c alias="TOWER_TYPE_TESLA" title="tower_name_TESLA" description="tower_description_TESLA" icon="tower-base-10"/>
+  <c alias="TOWER_CHAIN_DAMAGE" title="gu_title_TOWER_CHAIN_DAMAGE" description="gu_description_TOWER_CHAIN_DAMAGE" icon="tower-stat-chain-damage" has-levels="true"/>
+  <c alias="TOWER_U_CHAIN_LIGHTNING_LENGTH" title="gu_title_TOWER_U_CHAIN_LIGHTNING_LENGTH" description="gu_description_TOWER_U_CHAIN_LIGHTNING_LENGTH" icon="tower-stat-chain-length" has-levels="true"/>
+  <c alias="TOWER_TYPE_BLAST" title="tower_name_BLAST" description="tower_description_BLAST" icon="tower-base-6"/>
+  <c alias="TOWER_U_STUN_DURATION" title="gu_title_TOWER_U_STUN_DURATION" description="gu_description_TOWER_U_STUN_DURATION" icon="tower-stat-stun-duration" has-levels="true"/>
+  <c alias="TOWER_STUN_CHANCE" title="gu_title_TOWER_STUN_CHANCE" description="gu_description_TOWER_STUN_CHANCE" icon="tower-stat-stun-chance" has-levels="true"/>
+  <c alias="TOWER_TYPE_SNIPER" title="tower_name_SNIPER" description="tower_description_SNIPER" icon="tower-base-1"/>
+  <c alias="TOWER_U_CRIT_DAMAGE" title="gu_title_TOWER_U_CRIT_DAMAGE" description="gu_description_TOWER_U_CRIT_DAMAGE" icon="tower-stat-crit-damage" has-levels="true"/>
+  <c alias="TOWER_AIM_TIME" title="gu_title_TOWER_AIM_TIME" description="gu_description_TOWER_AIM_TIME" icon="tower-stat-aim-time" has-levels="true"/>
+  <c alias="TOWER_U_CRIT_CHANCE" title="gu_title_TOWER_U_CRIT_CHANCE" description="gu_description_TOWER_U_CRIT_CHANCE" icon="tower-stat-crit-chance" has-levels="true"/>
+  <c alias="TOWER_SELL_REFUND" title="gu_title_TOWER_SELL_REFUND" description="gu_description_TOWER_SELL_REFUND" icon="tile-menu-icon-sell" has-levels="true"/>
+  <c alias="TOWER_TYPE_CANNON" title="tower_name_CANNON" description="tower_description_CANNON" icon="tower-base-2"/>
+  <c alias="TOWER_U_POISON_DURATION" title="gu_title_TOWER_U_POISON_DURATION" description="gu_description_TOWER_U_POISON_DURATION" icon="tower-stat-poison-duration" has-levels="true"/>
+  <c alias="GAME_PRIZES_MULTIPLIER" title="gu_title_GAME_PRIZES_MULTIPLIER" description="gu_description_GAME_PRIZES_MULTIPLIER" icon="main-menu-icon-money" has-levels="true"/>
+</categories>

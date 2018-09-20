@@ -1,0 +1,1825 @@
+
+all.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+level-select-lock
+  rotate: false
+  xy: 2, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+money-pack-double-gain
+  rotate: false
+  xy: 2, 1532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+money-pack-large
+  rotate: false
+  xy: 260, 1790
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+money-pack-medium
+  rotate: false
+  xy: 2, 1274
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+money-pack-small
+  rotate: false
+  xy: 260, 1532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 518, 1875
+  size: 256, 171
+  orig: 256, 171
+  offset: 0, 0
+  index: -1
+money-pack-button
+  rotate: false
+  xy: 776, 1945
+  size: 323, 101
+  orig: 323, 101
+  offset: 0, 0
+  index: -1
+tile-menu-target-button
+  rotate: false
+  xy: 1101, 1961
+  size: 272, 85
+  orig: 272, 85
+  offset: 0, 0
+  index: -1
+logo-with-title
+  rotate: false
+  xy: 1375, 1974
+  size: 282, 72
+  orig: 282, 72
+  offset: 0, 0
+  index: -1
+tile-menu-tower-build-active
+  rotate: false
+  xy: 2, 1113
+  size: 165, 159
+  orig: 165, 159
+  offset: 0, 0
+  index: -1
+tile-menu-sell-button
+  rotate: false
+  xy: 260, 1446
+  size: 196, 84
+  orig: 196, 84
+  offset: 0, 0
+  index: -1
+tile-menu-tower-build-hover
+  rotate: false
+  xy: 518, 1741
+  size: 138, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1
+game-gui-draw-mode-blue
+  rotate: false
+  xy: 2, 983
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-draw-mode-green
+  rotate: false
+  xy: 260, 1316
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-draw-mode-yellow
+  rotate: false
+  xy: 518, 1611
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-health
+  rotate: false
+  xy: 2, 853
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-menu-button
+  rotate: false
+  xy: 2, 723
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-money
+  rotate: false
+  xy: 2, 593
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-speed-green
+  rotate: false
+  xy: 2, 463
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-speed-needle
+  rotate: false
+  xy: 2, 333
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-speed-red
+  rotate: false
+  xy: 2, 203
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-speed-yellow
+  rotate: false
+  xy: 2, 73
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-stopwatch-active
+  rotate: false
+  xy: 658, 1745
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-stopwatch-glow
+  rotate: false
+  xy: 169, 1144
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+game-gui-stopwatch-inactive
+  rotate: false
+  xy: 518, 1481
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+global-upgrades-icon-background
+  rotate: false
+  xy: 1659, 1918
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-build-price
+  rotate: false
+  xy: 1789, 1918
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+map-editor-dragging-tile-shadow
+  rotate: false
+  xy: 1919, 1928
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+gu-experience-bonus
+  rotate: false
+  xy: 390, 1316
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-experience-generation
+  rotate: false
+  xy: 520, 1351
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-forced-wave-bonus
+  rotate: false
+  xy: 299, 1186
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-max-tower-level
+  rotate: false
+  xy: 429, 1186
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-max-upgrade-level
+  rotate: false
+  xy: 788, 1815
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-root
+  rotate: false
+  xy: 918, 1815
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-starting-experience
+  rotate: false
+  xy: 788, 1685
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-upgrade-price
+  rotate: false
+  xy: 918, 1685
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gu-wave-delay
+  rotate: false
+  xy: 658, 1615
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ic_play_games_badge
+  rotate: false
+  xy: 648, 1485
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-about
+  rotate: false
+  xy: 650, 1355
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-achievements
+  rotate: false
+  xy: 788, 1555
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-break-tile
+  rotate: false
+  xy: 918, 1555
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-clock
+  rotate: false
+  xy: 559, 1221
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-cloud-save
+  rotate: false
+  xy: 689, 1225
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-continue
+  rotate: false
+  xy: 1048, 1815
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-global-upgrades
+  rotate: false
+  xy: 1048, 1685
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-handbook
+  rotate: false
+  xy: 1048, 1555
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-home
+  rotate: false
+  xy: 1178, 1831
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-language
+  rotate: false
+  xy: 1178, 1701
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-leaderboards
+  rotate: false
+  xy: 1178, 1571
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-map-editor
+  rotate: false
+  xy: 1308, 1831
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-materials
+  rotate: false
+  xy: 1308, 1701
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-money
+  rotate: false
+  xy: 1308, 1571
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-new-game
+  rotate: false
+  xy: 1438, 1844
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-question
+  rotate: false
+  xy: 1438, 1714
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-settings
+  rotate: false
+  xy: 1438, 1584
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-shop-cart
+  rotate: false
+  xy: 780, 1425
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-statistics
+  rotate: false
+  xy: 910, 1425
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-times
+  rotate: false
+  xy: 1040, 1425
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+main-menu-icon-trash-bin-dollar
+  rotate: false
+  xy: 819, 1295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+range
+  rotate: false
+  xy: 949, 1295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tile-menu-icon-hide
+  rotate: false
+  xy: 1079, 1295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tile-menu-icon-info
+  rotate: false
+  xy: 819, 1165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tile-menu-icon-sell
+  rotate: false
+  xy: 949, 1165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tile-menu-icon-tile-info
+  rotate: false
+  xy: 1079, 1165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tile-menu-icon-tools
+  rotate: false
+  xy: 689, 1095
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tile-menu-icon-tower
+  rotate: false
+  xy: 559, 1091
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-accuracy
+  rotate: false
+  xy: 819, 1035
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-aim-time
+  rotate: false
+  xy: 949, 1035
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-attack-speed
+  rotate: false
+  xy: 1079, 1035
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-burn-chance
+  rotate: false
+  xy: 689, 965
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-burn-damage
+  rotate: false
+  xy: 819, 905
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-burn-duration
+  rotate: false
+  xy: 949, 905
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-chain-damage
+  rotate: false
+  xy: 1079, 905
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-chain-length-bonus
+  rotate: false
+  xy: 1170, 1425
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-chain-length
+  rotate: false
+  xy: 1300, 1441
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-combo-hit-damage
+  rotate: false
+  xy: 1209, 1295
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-crit-chance
+  rotate: false
+  xy: 1209, 1165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-crit-damage
+  rotate: false
+  xy: 1209, 1035
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-damage-multiply
+  rotate: false
+  xy: 1209, 905
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-damage
+  rotate: false
+  xy: 1339, 1311
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-explosion-range
+  rotate: false
+  xy: 1339, 1181
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-freeze-meltdown-time
+  rotate: false
+  xy: 1339, 1051
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-freeze-percent
+  rotate: false
+  xy: 1339, 921
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-freeze-time
+  rotate: false
+  xy: 1430, 1441
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-lightning-damage
+  rotate: false
+  xy: 1469, 1311
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-lrm-aim-time
+  rotate: false
+  xy: 1469, 1181
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-minimum-range
+  rotate: false
+  xy: 1469, 1051
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-missile-life-time
+  rotate: false
+  xy: 1469, 921
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-missile-rotation-speed
+  rotate: false
+  xy: 299, 1056
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-multiple-chain-length-n-poison-duration-bonus
+  rotate: false
+  xy: 429, 1056
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-multiple-freeze-percent
+  rotate: false
+  xy: 559, 961
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-poison-damage
+  rotate: false
+  xy: 169, 1014
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-poison-duration-bonus
+  rotate: false
+  xy: 132, 884
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-poison-duration
+  rotate: false
+  xy: 132, 754
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-projectile-count
+  rotate: false
+  xy: 132, 624
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-projectile-speed
+  rotate: false
+  xy: 132, 494
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-range
+  rotate: false
+  xy: 132, 364
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-rotation-n-projectile-speed
+  rotate: false
+  xy: 132, 234
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-rotation-speed
+  rotate: false
+  xy: 132, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+map-editor-map-select-button-left
+  rotate: false
+  xy: 132, 2
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+map-editor-map-select-button-right
+  rotate: false
+  xy: 256, 2
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+tower-stat-shot-angle
+  rotate: false
+  xy: 689, 835
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-speed-up-time
+  rotate: false
+  xy: 819, 775
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-stun-chance
+  rotate: false
+  xy: 949, 775
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-stun-duration
+  rotate: false
+  xy: 1079, 775
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tower-stat-unique
+  rotate: false
+  xy: 1209, 775
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+map-editor-map-select-button-middle
+  rotate: false
+  xy: 1339, 819
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+tile-menu-upgrade-button-active-check
+  rotate: false
+  xy: 1568, 1902
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+tile-outline-active
+  rotate: false
+  xy: 1451, 849
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tile-outline-hover
+  rotate: false
+  xy: 1568, 1830
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+bonus-enemy-glow
+  rotate: false
+  xy: 2, 7
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-0
+  rotate: false
+  xy: 1523, 855
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-1
+  rotate: false
+  xy: 1568, 1764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-10
+  rotate: false
+  xy: 1568, 1698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-11
+  rotate: false
+  xy: 1568, 1632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-2
+  rotate: false
+  xy: 1568, 1566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-3
+  rotate: false
+  xy: 1560, 1500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-4
+  rotate: false
+  xy: 1339, 753
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-5
+  rotate: false
+  xy: 1405, 753
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-6
+  rotate: false
+  xy: 299, 990
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-7
+  rotate: false
+  xy: 365, 990
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-8
+  rotate: false
+  xy: 431, 990
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+settings-toggle-off
+  rotate: false
+  xy: 1560, 1466
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+enemy-9
+  rotate: false
+  xy: 262, 924
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon-fb
+  rotate: false
+  xy: 262, 858
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon-filter
+  rotate: false
+  xy: 328, 924
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon-skip
+  rotate: false
+  xy: 262, 792
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon-triangle-left
+  rotate: false
+  xy: 394, 924
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon-triangle-right
+  rotate: false
+  xy: 328, 858
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon-waves
+  rotate: false
+  xy: 262, 726
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+loading-icon
+  rotate: false
+  xy: 394, 858
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+minigun-spinup
+  rotate: false
+  xy: 328, 792
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+space-tile-bonus-unique
+  rotate: false
+  xy: 262, 660
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-0
+  rotate: false
+  xy: 328, 726
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-1
+  rotate: false
+  xy: 394, 792
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-2
+  rotate: false
+  xy: 262, 594
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-3
+  rotate: false
+  xy: 328, 660
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-4
+  rotate: false
+  xy: 394, 726
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tile-menu-icon-target
+  rotate: false
+  xy: 262, 528
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-aim
+  rotate: false
+  xy: 328, 594
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-0
+  rotate: false
+  xy: 394, 660
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-1
+  rotate: false
+  xy: 262, 462
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-10
+  rotate: false
+  xy: 328, 528
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-11
+  rotate: false
+  xy: 394, 594
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-2
+  rotate: false
+  xy: 262, 396
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-3
+  rotate: false
+  xy: 328, 462
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-4
+  rotate: false
+  xy: 394, 528
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-5
+  rotate: false
+  xy: 262, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-6
+  rotate: false
+  xy: 328, 396
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-7
+  rotate: false
+  xy: 394, 462
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-8
+  rotate: false
+  xy: 262, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-9
+  rotate: false
+  xy: 328, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-0
+  rotate: false
+  xy: 394, 396
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-1
+  rotate: false
+  xy: 262, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-10
+  rotate: false
+  xy: 328, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-11
+  rotate: false
+  xy: 394, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-2
+  rotate: false
+  xy: 262, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-3
+  rotate: false
+  xy: 328, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-4
+  rotate: false
+  xy: 394, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-5
+  rotate: false
+  xy: 328, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-6
+  rotate: false
+  xy: 394, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-7
+  rotate: false
+  xy: 394, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-8
+  rotate: false
+  xy: 380, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-base-greyscale-9
+  rotate: false
+  xy: 460, 924
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-0
+  rotate: false
+  xy: 460, 858
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-1
+  rotate: false
+  xy: 460, 792
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-10
+  rotate: false
+  xy: 460, 726
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-11
+  rotate: false
+  xy: 460, 660
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-2
+  rotate: false
+  xy: 460, 594
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-3
+  rotate: false
+  xy: 460, 528
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-4
+  rotate: false
+  xy: 460, 462
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-5
+  rotate: false
+  xy: 460, 396
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-6
+  rotate: false
+  xy: 460, 330
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-7
+  rotate: false
+  xy: 460, 264
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-8
+  rotate: false
+  xy: 460, 198
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-shadow-9
+  rotate: false
+  xy: 460, 132
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-0
+  rotate: false
+  xy: 446, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+settings-toggle-on
+  rotate: false
+  xy: 380, 32
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+tower-weapon-1
+  rotate: false
+  xy: 526, 895
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-10
+  rotate: false
+  xy: 526, 829
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-11
+  rotate: false
+  xy: 592, 895
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-2
+  rotate: false
+  xy: 526, 763
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-3
+  rotate: false
+  xy: 592, 829
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-4
+  rotate: false
+  xy: 526, 697
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-5
+  rotate: false
+  xy: 592, 763
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-6
+  rotate: false
+  xy: 526, 631
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-7
+  rotate: false
+  xy: 592, 697
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-8
+  rotate: false
+  xy: 526, 565
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-9
+  rotate: false
+  xy: 592, 631
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-0
+  rotate: false
+  xy: 526, 499
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-1
+  rotate: false
+  xy: 592, 565
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-10
+  rotate: false
+  xy: 526, 433
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-11
+  rotate: false
+  xy: 592, 499
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-2
+  rotate: false
+  xy: 526, 367
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-3
+  rotate: false
+  xy: 592, 433
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-4
+  rotate: false
+  xy: 526, 301
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-5
+  rotate: false
+  xy: 592, 367
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-6
+  rotate: false
+  xy: 526, 235
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-7
+  rotate: false
+  xy: 592, 301
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-8
+  rotate: false
+  xy: 526, 169
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tower-weapon-greyscale-9
+  rotate: false
+  xy: 592, 235
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy-dialog
+  rotate: false
+  xy: 458, 1490
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+global-upgrade-level-1
+  rotate: false
+  xy: 260, 1282
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-10
+  rotate: false
+  xy: 520, 1317
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-2
+  rotate: false
+  xy: 780, 1391
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-3
+  rotate: false
+  xy: 132, 1079
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-4
+  rotate: false
+  xy: 68, 39
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-5
+  rotate: false
+  xy: 497, 1022
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-6
+  rotate: false
+  xy: 446, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-7
+  rotate: false
+  xy: 526, 135
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-8
+  rotate: false
+  xy: 592, 201
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+global-upgrade-level-9
+  rotate: false
+  xy: 458, 1456
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goal-checkbox-checked
+  rotate: false
+  xy: 780, 1357
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goal-checkbox
+  rotate: false
+  xy: 132, 1045
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 68, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+main-menu-global-upgrade-node
+  rotate: false
+  xy: 480, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+main-menu-icon-circle
+  rotate: false
+  xy: 560, 135
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+space-tile-bonus-level-1
+  rotate: false
+  xy: 626, 201
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy-health-line
+  rotate: false
+  xy: 650, 1351
+  size: 26, 2
+  orig: 26, 2
+  offset: 0, 0
+  index: -1
+level-select-goal-scale-triangle
+  rotate: false
+  xy: 1375, 1961
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+projectile-air
+  rotate: false
+  xy: 294, 1290
+  size: 3, 24
+  orig: 3, 24
+  offset: 0, 0
+  index: -1
+projectile-missile
+  rotate: false
+  xy: 776, 1923
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+jet-thrust
+  rotate: false
+  xy: 1451, 831
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+level-select-goal-scale-check
+  rotate: false
+  xy: 262, 106
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+space-tile-bonus-level-2
+  rotate: false
+  xy: 1485, 815
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+space-tile-bonus-level-3
+  rotate: false
+  xy: 1471, 781
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-0
+  rotate: false
+  xy: 1471, 747
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-1
+  rotate: false
+  xy: 512, 98
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-10
+  rotate: false
+  xy: 546, 101
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-11
+  rotate: false
+  xy: 1505, 781
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-12
+  rotate: false
+  xy: 1505, 747
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-13
+  rotate: false
+  xy: 1519, 815
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy-health-bar
+  rotate: false
+  xy: 1523, 849
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+tower-level-14
+  rotate: false
+  xy: 1553, 821
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-15
+  rotate: false
+  xy: 580, 101
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-16
+  rotate: false
+  xy: 1539, 781
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-17
+  rotate: false
+  xy: 1539, 747
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+muzzle-flash
+  rotate: false
+  xy: 648, 1723
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+tower-level-18
+  rotate: false
+  xy: 1919, 1894
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-19
+  rotate: false
+  xy: 1953, 1894
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-2
+  rotate: false
+  xy: 1987, 1894
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-3
+  rotate: false
+  xy: 1589, 887
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-4
+  rotate: false
+  xy: 1589, 853
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-5
+  rotate: false
+  xy: 1587, 819
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-6
+  rotate: false
+  xy: 1573, 785
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-7
+  rotate: false
+  xy: 1573, 751
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-8
+  rotate: false
+  xy: 1607, 785
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tower-level-9
+  rotate: false
+  xy: 1607, 751
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+projectile-venom
+  rotate: false
+  xy: 1621, 819
+  size: 6, 32
+  orig: 6, 32
+  offset: 0, 0
+  index: -1
+projectile-splash
+  rotate: false
+  xy: 554, 1333
+  size: 3, 16
+  orig: 3, 16
+  offset: 0, 0
+  index: -1
+projectile-basic
+  rotate: false
+  xy: 2039, 2014
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+particle-default
+  rotate: false
+  xy: 1560, 1448
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+projectile-cannon
+  rotate: false
+  xy: 778, 1589
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+enemy-effect-burn
+  rotate: false
+  xy: 2039, 2003
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+enemy-effect-laser
+  rotate: false
+  xy: 2039, 1992
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+enemy-effect-poison
+  rotate: false
+  xy: 2039, 1981
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+enemy-effect-stun
+  rotate: false
+  xy: 2039, 1970
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+enemy-effect-freeze
+  rotate: false
+  xy: 1101, 1950
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+chain-lightning
+  rotate: false
+  xy: 1560, 1441
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 1553, 815
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

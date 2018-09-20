@@ -1,0 +1,1520 @@
+<levels>
+	<level id="1" price="0" required-waves="0" leaderboard="CgkIsoHvgsEHEAIQZg" hardcore-leaderboard="CgkIsoHvgsEHEAIQeA"><!-- 1214 - 1.0 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="1000">
+				<tile quality="0.02" amount="2" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="1250">
+				<tile quality="0.035" amount="2" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="1500">
+				<tile quality="0.05" amount="2" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="2000">
+				<tile quality="0.07" amount="2" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="3000">
+				<tile quality="0.1" amount="2" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="5000">
+				<tile quality="0.15" amount="2" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="7000">
+				<tile quality="0.22" amount="2" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="9000">
+				<tile quality="0.3" amount="2" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="12000">
+				<tile quality="0.4" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="15000">
+				<tile quality="0.5" amount="3" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="20000">
+				<tile quality="0.6" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="24000">
+				<tile quality="0.7" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="28000">
+				<tile quality="0.8" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="33000">
+				<tile quality="0.8" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="0.9" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 75 -->
+			<wave-goal waves="30" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="35" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="50" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="55" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="60" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="65" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="2" price="1500" required-waves="65" leaderboard="CgkIsoHvgsEHEAIQZw" hardcore-leaderboard="CgkIsoHvgsEHEAIQeQ"><!-- 1426 - 1.18 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="1500">
+				<tile quality="0.035" amount="2" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="1800">
+				<tile quality="0.05" amount="2" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="2250">
+				<tile quality="0.075" amount="2" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="3000">
+				<tile quality="0.11" amount="2" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="4000">
+				<tile quality="0.16" amount="2" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="6000">
+				<tile quality="0.24" amount="2" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="8000">
+				<tile quality="0.35" amount="2" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="10000">
+				<tile quality="0.47" amount="2" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="13000">
+				<tile quality="0.59" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="17000">
+				<tile quality="0.7" amount="3" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="21000">
+				<tile quality="0.78" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="25000">
+				<tile quality="0.86" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="30000">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="35000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 50 -->
+			<wave-goal waves="30" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="33" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="36" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="42" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="48" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="50" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="3" price="3000" required-waves="150" leaderboard="CgkIsoHvgsEHEAIQaA" hardcore-leaderboard="CgkIsoHvgsEHEAIQeg"><!-- 1478 - 1.23 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="1500">
+				<tile quality="0.035" amount="2" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="1800">
+				<tile quality="0.05" amount="2" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="2250">
+				<tile quality="0.075" amount="2" />
+			</wave-goal>
+			<wave-goal waves="125" prize-money="3000">
+				<tile quality="0.11" amount="2" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="4000">
+				<tile quality="0.16" amount="2" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="6000">
+				<tile quality="0.24" amount="2" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="8000">
+				<tile quality="0.35" amount="2" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="10000">
+				<tile quality="0.47" amount="2" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="13000">
+				<tile quality="0.59" amount="2" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="17000">
+				<tile quality="0.7" amount="3" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="21000">
+				<tile quality="0.78" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="24000">
+				<tile quality="0.84" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="28000">
+				<tile quality="0.9" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="32000">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="36000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 47 -->
+			<wave-goal waves="28" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="31" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="34" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="47" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="4" price="4000" required-waves="240" leaderboard="CgkIsoHvgsEHEAIQaQ" hardcore-leaderboard="CgkIsoHvgsEHEAIQew"><!-- 1735 - 1.44 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2000">
+				<tile quality="0.07" amount="1" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="2500">
+				<tile quality="0.1" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3000">
+				<tile quality="0.15" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="4000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="5500">
+				<tile quality="0.32" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="7500">
+				<tile quality="0.48" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="10000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="13000">
+				<tile quality="0.75" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="16000">
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="20000">
+				<tile quality="0.95" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="30000">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="35000">
+				<tile quality="0.97" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="40000">
+				<tile quality="0.99" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="45000">
+				<tile quality="0.99" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 45 -->
+			<wave-goal waves="27" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="30" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="33" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="36" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="41" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="5" price="5500" required-waves="340" leaderboard="CgkIsoHvgsEHEAIQag" hardcore-leaderboard="CgkIsoHvgsEHEAIQfA"><!-- 1558 - 1.29 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2000">
+				<tile quality="0.07" amount="1" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="2500">
+				<tile quality="0.1" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3000">
+				<tile quality="0.15" amount="1" />
+			</wave-goal>
+			<wave-goal waves="125" prize-money="4000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="5500">
+				<tile quality="0.32" amount="1" />
+			</wave-goal>
+			<wave-goal waves="175" prize-money="7500">
+				<tile quality="0.48" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="10000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="13000">
+				<tile quality="0.75" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="16000">
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="20000">
+				<tile quality="0.95" amount="2" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="24000">
+				<tile quality="0.95" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="28000">
+				<tile quality="0.95" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="32000">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="36000">
+				<tile quality="0.97" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="40000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="44000">
+				<tile quality="0.99" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="0.99" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 41 -->
+			<wave-goal waves="22" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="25" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="28" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="31" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="34" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="41" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="6" price="6000" required-waves="450" leaderboard="CgkIsoHvgsEHEAIQaw" hardcore-leaderboard="CgkIsoHvgsEHEAIQfQ"><!-- 1607 - 1.33 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2000">
+				<tile quality="0.075" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="2500">
+				<tile quality="0.11" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="3000">
+				<tile quality="0.16" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="4000">
+				<tile quality="0.24" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="5500">
+				<tile quality="0.35" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="7500">
+				<tile quality="0.40" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="10000">
+				<tile quality="0.46" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="13000">
+				<tile quality="0.52" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="16000">
+				<tile quality="0.59" amount="1" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="20000">
+				<tile quality="0.67" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="24000">
+				<tile quality="0.72" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="28000">
+				<tile quality="0.78" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="32000">
+				<tile quality="0.82" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="36000">
+				<tile quality="0.86" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="40000">
+				<tile quality="0.90" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 47 -->
+			<wave-goal waves="28" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="31" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="34" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="47" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="7" price="7000" required-waves="570" leaderboard="CgkIsoHvgsEHEAIQbA" hardcore-leaderboard="CgkIsoHvgsEHEAIQfg"><!-- 1914 - 1.59 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2000">
+				<tile quality="0.066" amount="2" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="2500">
+				<tile quality="0.09" amount="2" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3000">
+				<tile quality="0.12" amount="2" />
+			</wave-goal>
+			<wave-goal waves="125" prize-money="4000">
+				<tile quality="0.20" amount="2" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="5500">
+				<tile quality="0.28" amount="2" />
+			</wave-goal>
+			<wave-goal waves="175" prize-money="7500">
+				<tile quality="0.38" amount="2" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="10000">
+				<tile quality="0.50" amount="2" />
+			</wave-goal>
+			<wave-goal waves="225" prize-money="13000">
+				<tile quality="0.65" amount="2" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="16000">
+				<tile quality="0.75" amount="2" />
+			</wave-goal>
+			<wave-goal waves="275" prize-money="20000">
+				<tile quality="0.82" amount="3" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="22000">
+				<tile quality="0.82" amount="3" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="26000">
+				<tile quality="0.86" amount="3" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="32000">
+				<tile quality="0.9" amount="3" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="38000">
+				<tile quality="0.95" amount="3" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="44000">
+				<tile quality="0.98" amount="3" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="56000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="62000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 43 -->
+			<wave-goal waves="26" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="29" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="32" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="35" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="41" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="8" price="8000" required-waves="700" leaderboard="CgkIsoHvgsEHEAIQbQ" hardcore-leaderboard="CgkIsoHvgsEHEAIQfw"><!-- 2010 - 1.67 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2500">
+				<tile quality="0.066" amount="2" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="3000">
+				<tile quality="0.09" amount="2" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3500">
+				<tile quality="0.12" amount="2" />
+			</wave-goal>
+			<wave-goal waves="125" prize-money="4500">
+				<tile quality="0.20" amount="2" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="6000">
+				<tile quality="0.28" amount="2" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="8000">
+				<tile quality="0.38" amount="2" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="11000">
+				<tile quality="0.50" amount="2" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="15000">
+				<tile quality="0.65" amount="2" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="19000">
+				<tile quality="0.75" amount="2" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="24000">
+				<tile quality="0.82" amount="3" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="28000">
+				<tile quality="0.86" amount="3" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="32000">
+				<tile quality="0.90" amount="3" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="36000">
+				<tile quality="0.94" amount="3" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="40000">
+				<tile quality="0.97" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="45000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 40 -->
+			<wave-goal waves="21" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="24" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="27" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="30" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="33" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="36" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="38" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="9" price="9000" required-waves="800" leaderboard="CgkIsoHvgsEHEAIQbg" hardcore-leaderboard="CgkIsoHvgsEHEAIQgAE"><!-- 2270 - 1.89 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2700">
+				<tile quality="0.075" amount="2" />
+			</wave-goal>
+			<wave-goal waves="75" prize-money="3300">
+				<tile quality="0.11" amount="2" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="4000">
+				<tile quality="0.14" amount="2" />
+			</wave-goal>
+			<wave-goal waves="125" prize-money="4800">
+				<tile quality="0.24" amount="2" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="6200">
+				<tile quality="0.31" amount="2" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="8500">
+				<tile quality="0.42" amount="2" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="12000">
+				<tile quality="0.56" amount="2" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="16000">
+				<tile quality="0.72" amount="2" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="21000">
+				<tile quality="0.82" amount="2" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="26000">
+				<tile quality="0.91" amount="3" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="32000">
+				<tile quality="0.94" amount="3" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="38000">
+				<tile quality="0.97" amount="3" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="42000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="48000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="54000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="60000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 45 -->
+			<wave-goal waves="26" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="29" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="32" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="35" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="38" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="41" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="10" price="10000" required-waves="1000" leaderboard="CgkIsoHvgsEHEAIQbw" hardcore-leaderboard="CgkIsoHvgsEHEAIQgQE"><!-- 2407 - 2.0 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2500">
+				<tile quality="0.085" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3500">
+				<tile quality="0.13" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="5000">
+				<tile quality="0.2" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="7000">
+				<tile quality="0.29" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="9000">
+				<tile quality="0.41" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="12000">
+				<tile quality="0.6" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="15000">
+				<tile quality="0.75" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="19000">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="23000">
+				<tile quality="0.95" amount="1" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="28000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="33000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="38000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="43000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="46000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 87 -->
+			<wave-goal waves="60" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="65" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="69" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="73" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="77" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="81" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="84" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="87" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="11" price="10500" required-waves="1220" leaderboard="CgkIsoHvgsEHEAIQcA" hardcore-leaderboard="CgkIsoHvgsEHEAIQggE"><!-- 1997 - 1.66 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="3000">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="4500">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="6000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="8000">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="10000">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="13000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="16000">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="20000">
+				<tile quality="0.91" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="25000">
+				<tile quality="0.97" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="30000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="34000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="38000">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="42000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="46000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 46 -->
+			<wave-goal waves="27" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="30" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="33" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="36" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="42" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="44" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="46" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="12" price="11000" required-waves="1500" leaderboard="CgkIsoHvgsEHEAIQcQ" hardcore-leaderboard="CgkIsoHvgsEHEAIQgwE"><!-- 1753 - 1.46 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="3000">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="4500">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="6000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="8000">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="10000">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="13000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="16000">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="20000">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="25000">
+				<tile quality="0.92" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="30000">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="34000">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="38000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="42000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="46000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 47 -->
+			<wave-goal waves="28" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="31" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="34" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="47" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="13" price="12000" required-waves="1850" leaderboard="CgkIsoHvgsEHEAIQcg" hardcore-leaderboard="CgkIsoHvgsEHEAIQhAE"><!-- 2518 - 2.09 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="3000">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="4500">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="6000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="8000">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="10000">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="13000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="16000">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="20000">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="25000">
+				<tile quality="0.92" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="30000">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="34000">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="38000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="42000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="46000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 49 -->
+			<wave-goal waves="30" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="33" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="36" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="42" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="47" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="49" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="14" price="15000" required-waves="2200" leaderboard="CgkIsoHvgsEHEAIQcw" hardcore-leaderboard="CgkIsoHvgsEHEAIQhQE"><!-- 1395 - 1.16 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2000">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3500">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="5000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="7000">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="9000">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="12000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="14000">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="17500">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="22000">
+				<tile quality="0.92" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="25000">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="30000">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="35000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="40000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="45000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 42 -->
+			<wave-goal waves="35" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="26" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="29" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="32" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="35" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="38" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="42" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="15" price="18000" required-waves="2600" leaderboard="CgkIsoHvgsEHEAIQdA" hardcore-leaderboard="CgkIsoHvgsEHEAIQhgE"><!-- 1664 - 1.38 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="2000">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="3500">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="5000">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="7000">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="9000">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="12000">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="14000">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="17500">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="22000">
+				<tile quality="0.92" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="25000">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="30000">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="35000">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="40000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="45000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="50000">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 50 -->
+			<wave-goal waves="28" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="32" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="36" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="42" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="48" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="50" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="16" price="20000" required-waves="3000" leaderboard="CgkIsoHvgsEHEAIQdQ" hardcore-leaderboard="CgkIsoHvgsEHEAIQhwE"><!-- 2500 - 2.08 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="1000" prize-materials="16">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="2000" prize-materials="24">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="3000" prize-materials="32">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="4000" prize-materials="40">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="5000" prize-materials="48">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="6000" prize-materials="56">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="7000" prize-materials="64">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="8000" prize-materials="72">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="9000" prize-materials="80">
+				<tile quality="0.92" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="10000" prize-materials="88">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="11000" prize-materials="96">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="12000" prize-materials="104">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="13000" prize-materials="112">
+				<tile quality="0.99" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="14000" prize-materials="120">
+				<tile quality="0.99" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="15000" prize-materials="128">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 50 -->
+			<wave-goal waves="30" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="34" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="40" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="46" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="48" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="50" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="17" price="23000" required-waves="3500" leaderboard="CgkIsoHvgsEHEAIQdw" hardcore-leaderboard="CgkIsoHvgsEHEAIQiAE"><!-- 1725 - 1.43 -->
+		<wave-goals>
+			<wave-goal waves="50" prize-money="1000" prize-materials="16">
+				<tile quality="0.09" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="2000" prize-materials="24">
+				<tile quality="0.14" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="3000" prize-materials="32">
+				<tile quality="0.22" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="4000" prize-materials="40">
+				<tile quality="0.31" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="5000" prize-materials="48">
+				<tile quality="0.43" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="6000" prize-materials="56">
+				<tile quality="0.65" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="7000" prize-materials="64">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="8000" prize-materials="72">
+				<tile quality="0.88" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="9000" prize-materials="80">
+				<tile quality="0.92" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="10000" prize-materials="88">
+				<tile quality="0.94" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="11000" prize-materials="96">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="12000" prize-materials="104">
+				<tile quality="0.98" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="13000" prize-materials="112">
+				<tile quality="0.99" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="14000" prize-materials="120">
+				<tile quality="0.99" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="15000" prize-materials="128">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 45 -->
+			<wave-goal waves="26" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="29" prize-money="1500">
+				<tile quality="0.1" amount="3" />
+				<tile quality="0.7" amount="1" />
+			</wave-goal>
+			<wave-goal waves="32" prize-money="2500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="35" prize-money="3500">
+				<tile quality="0.20" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="38" prize-money="4500">
+				<tile quality="0.25" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="41" prize-money="5000">
+				<tile quality="0.30" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="43" prize-money="5500">
+				<tile quality="0.35" amount="5" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="45" prize-money="10000">
+				<tile quality="0.5" amount="6" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+	<level id="18" price="25000" required-waves="4500" leaderboard="CgkIsoHvgsEHEAIQiQE" hardcore-leaderboard="CgkIsoHvgsEHEAIQigE">
+		<wave-goals>
+			<wave-goal waves="50" prize-money="1000" prize-materials="16">
+				<tile quality="0.12" amount="1" />
+			</wave-goal>
+			<wave-goal waves="100" prize-money="1500" prize-materials="24">
+				<tile quality="0.19" amount="1" />
+			</wave-goal>
+			<wave-goal waves="150" prize-money="2000" prize-materials="32">
+				<tile quality="0.32" amount="1" />
+			</wave-goal>
+			<wave-goal waves="200" prize-money="2500" prize-materials="40">
+				<tile quality="0.45" amount="1" />
+			</wave-goal>
+			<wave-goal waves="250" prize-money="3000" prize-materials="48">
+				<tile quality="0.6" amount="1" />
+			</wave-goal>
+			<wave-goal waves="300" prize-money="3500" prize-materials="56">
+				<tile quality="0.8" amount="1" />
+			</wave-goal>
+			<wave-goal waves="350" prize-money="4000" prize-materials="64">
+				<tile quality="0.9" amount="1" />
+			</wave-goal>
+			<wave-goal waves="400" prize-money="4500" prize-materials="72">
+				<tile quality="0.94" amount="1" />
+			</wave-goal>
+			<wave-goal waves="450" prize-money="5000" prize-materials="80">
+				<tile quality="0.96" amount="2" />
+			</wave-goal>
+			<wave-goal waves="500" prize-money="5500" prize-materials="88">
+				<tile quality="0.97" amount="2" />
+			</wave-goal>
+			<wave-goal waves="600" prize-money="6000" prize-materials="96">
+				<tile quality="0.99" amount="2" />
+			</wave-goal>
+			<wave-goal waves="700" prize-money="6500" prize-materials="104">
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="800" prize-money="7000" prize-materials="112">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="900" prize-money="7500" prize-materials="120">
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+			<wave-goal waves="1000" prize-money="10000" prize-materials="128">
+				<tile quality="1.0" amount="4" />
+			</wave-goal>
+		</wave-goals>
+		<wave-goals-hardcore><!-- 39 -->
+			<wave-goal waves="20" prize-money="800">
+				<tile quality="0.05" amount="3" />
+				<tile quality="0.55" amount="1" />
+			</wave-goal>
+			<wave-goal waves="23" prize-money="1500">
+				<tile quality="0.15" amount="3" />
+				<tile quality="0.75" amount="1" />
+			</wave-goal>
+			<wave-goal waves="26" prize-money="2500">
+				<tile quality="0.2" amount="3" />
+				<tile quality="0.85" amount="1" />
+			</wave-goal>
+			<wave-goal waves="29" prize-money="3500">
+				<tile quality="0.25" amount="3" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="32" prize-money="4500">
+				<tile quality="0.3" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="35" prize-money="5000">
+				<tile quality="0.4" amount="4" />
+				<tile quality="1.0" amount="1" />
+			</wave-goal>
+			<wave-goal waves="37" prize-money="5500">
+				<tile quality="0.4" amount="5" />
+				<tile quality="1.0" amount="2" />
+			</wave-goal>
+			<wave-goal waves="39" prize-money="10000">
+				<tile quality="0.6" amount="6" />
+				<tile quality="1.0" amount="3" />
+			</wave-goal>
+		</wave-goals-hardcore>
+	</level>
+</levels>

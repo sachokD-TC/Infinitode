@@ -1,0 +1,1237 @@
+<u name="ROOT" category="ROOT" values="0" price="0" level="0" x="4080" y="4080" pivot-x="0" pivot-y="0">
+  <u name="MAP_EDITOR_MAP_SIZE_I" category="MAP_EDITOR_MAP_SIZE" values="12,12,144" price="3000" level="1" x="3920" y="4240" pivot-x="0" pivot-y="0">
+    <u name="MAP_EDITOR_MAP_SIZE_II" category="MAP_EDITOR_MAP_SIZE" values="16,16,256" price="6100" level="2" x="3760" y="4240" pivot-x="0" pivot-y="0">
+      <u name="MAP_EDITOR_MAP_SIZE_III" category="MAP_EDITOR_MAP_SIZE" values="20,20,400" price="10850" level="3" x="3600" y="4400" pivot-x="0" pivot-y="0">
+        <u name="MAP_EDITOR_MAP_SIZE_IV" category="MAP_EDITOR_MAP_SIZE" values="24,24,576" price="17750" level="4" x="3440" y="4560" pivot-x="0" pivot-y="0">
+          <u name="MAP_EDITOR_MAP_SIZE_V" category="MAP_EDITOR_MAP_SIZE" values="28,28,784" price="27500" level="5" x="3600" y="4560" pivot-x="0" pivot-y="0">
+            <u name="MAP_EDITOR_MAP_SIZE_VI" category="MAP_EDITOR_MAP_SIZE" values="32,32,1024" price="37500" level="6" x="3760" y="4560" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_BASIC" category="TOWER_TYPE_BASIC" values="0" price="0" level="0" x="2320" y="4080" pivot-x="0" pivot-y="0">
+    <u name="TOWER_BASIC_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="125" level="1" x="1200" y="4240" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_BASIC_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="350" level="2" x="1040" y="4240" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="1550" level="3" x="880" y="4240" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="9300" level="4" x="720" y="4240" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="74000" level="5" x="560" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="150" level="1" x="880" y="3920" pivot-x="160" pivot-y="160">
+      <u name="TOWER_BASIC_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="350" level="2" x="720" y="3920" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="975" level="3" x="560" y="3920" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_PRICE_I" category="TOWER_PRICE" values="38" price="250" level="1" x="2000" y="3760" pivot-x="0" pivot-y="0">
+      <u name="TOWER_BASIC_PRICE_II" category="TOWER_PRICE" values="36" price="700" level="2" x="1840" y="3600" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_PRICE_III" category="TOWER_PRICE" values="34" price="3100" level="3" x="1680" y="3440" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_PRICE_IV" category="TOWER_PRICE" values="32" price="6700" level="4" x="1520" y="3280" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_PRICE_V" category="TOWER_PRICE" values="30" price="13400" level="5" x="1360" y="3120" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2" price="350" level="1" x="2000" y="4400" pivot-x="0" pivot-y="0">
+      <u name="TOWER_BASIC_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5" price="1350" level="2" x="1840" y="4560" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="9600" level="3" x="1680" y="4720" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="29000" level="4" x="1520" y="4880" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="58000" level="5" x="1360" y="5040" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="300" level="0" x="2000" y="4240" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_BASIC_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="550" level="1" x="1840" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="4000" level="1" x="1680" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="8800" level="2" x="1520" y="4720" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="17600" level="2" x="1360" y="4880" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_RANGE_I" category="TOWER_RANGE" values="0.06" price="300" level="1" x="2000" y="3920" pivot-x="160" pivot-y="160">
+      <u name="TOWER_BASIC_RANGE_II" category="TOWER_RANGE" values="0.14" price="800" level="2" x="1840" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_RANGE_III" category="TOWER_RANGE" values="0.24" price="2800" level="3" x="1680" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_RANGE_IV" category="TOWER_RANGE" values="0.34" price="6100" level="4" x="1520" y="3440" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_RANGE_V" category="TOWER_RANGE" values="0.44" price="12300" level="5" x="1360" y="3280" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_DAMAGE_I" category="TOWER_DAMAGE" values="0.1" price="450" level="1" x="1680" y="4400" pivot-x="320" pivot-y="-320">
+      <u name="TOWER_BASIC_DAMAGE_II" category="TOWER_DAMAGE" values="0.2" price="1200" level="2" x="1520" y="4560" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_DAMAGE_III" category="TOWER_DAMAGE" values="0.35" price="4200" level="3" x="1360" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_DAMAGE_IV" category="TOWER_DAMAGE" values="0.5" price="9100" level="4" x="1200" y="4560" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_DAMAGE_V" category="TOWER_DAMAGE" values="0.65" price="18200" level="5" x="1040" y="4560" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.05" price="400" level="1" x="1680" y="3760" pivot-x="320" pivot-y="320">
+      <u name="TOWER_BASIC_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.1" price="950" level="2" x="1520" y="3600" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.175" price="3350" level="3" x="1360" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.25" price="7300" level="4" x="1200" y="3600" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.325" price="14600" level="5" x="1040" y="3600" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_ROTATION_N_PROJECTILE_SPEED_I" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.2,3" price="250" level="1" x="1520" y="4240" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_BASIC_ROTATION_N_PROJECTILE_SPEED_II" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.45,6" price="650" level="2" x="1360" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_ROTATION_N_PROJECTILE_SPEED_III" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.75,10" price="1900" level="3" x="1200" y="4400" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_ROTATION_N_PROJECTILE_SPEED_IV" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="1.05,13" price="4100" level="4" x="1040" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_ROTATION_N_PROJECTILE_SPEED_V" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="1.4,17" price="8200" level="5" x="880" y="4400" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BASIC_U_DAMAGE_MULTIPLIER_I" category="TOWER_U_DAMAGE_MULTIPLIER" values="0.015" price="550" level="1" x="1520" y="3920" pivot-x="160" pivot-y="160">
+      <u name="TOWER_BASIC_U_DAMAGE_MULTIPLIER_II" category="TOWER_U_DAMAGE_MULTIPLIER" values="0.033" price="1400" level="2" x="1360" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BASIC_U_DAMAGE_MULTIPLIER_III" category="TOWER_U_DAMAGE_MULTIPLIER" values="0.055" price="5500" level="3" x="1200" y="3760" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BASIC_U_DAMAGE_MULTIPLIER_IV" category="TOWER_U_DAMAGE_MULTIPLIER" values="0.077" price="12000" level="4" x="1040" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BASIC_U_DAMAGE_MULTIPLIER_V" category="TOWER_U_DAMAGE_MULTIPLIER" values="0.1" price="24000" level="5" x="880" y="3760" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_SNIPER" category="TOWER_TYPE_SNIPER" values="0" price="0" level="0" x="4720" y="3120" pivot-x="-640" pivot-y="640">
+    <u name="TOWER_SNIPER_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="200" level="1" x="5680" y="2000" pivot-x="0" pivot-y="160">
+      <u name="TOWER_SNIPER_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="600" level="2" x="5840" y="1840" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="3250" level="3" x="6000" y="1680" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="19500" level="4" x="6160" y="1520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="156000" level="5" x="6320" y="1360" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="500" level="1" x="5840" y="2160" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_SNIPER_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="1375" level="2" x="6000" y="2000" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="4900" level="3" x="6160" y="1840" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_PRICE_I" category="TOWER_PRICE" values="95" price="400" level="1" x="5520" y="2480" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_SNIPER_PRICE_II" category="TOWER_PRICE" values="90" price="1200" level="2" x="5680" y="2320" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_PRICE_III" category="TOWER_PRICE" values="85" price="6500" level="3" x="5840" y="2320" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_PRICE_IV" category="TOWER_PRICE" values="80" price="14000" level="4" x="6000" y="2320" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_PRICE_V" category="TOWER_PRICE" values="75" price="28000" level="5" x="6160" y="2160" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="550" level="1" x="4720" y="2960" pivot-x="0" pivot-y="0">
+      <u name="TOWER_SNIPER_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="2450" level="2" x="4720" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="21000" level="3" x="4720" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="63000" level="4" x="4720" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="126000" level="5" x="4720" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="350" level="0" x="4880" y="2800" pivot-x="0" pivot-y="160">
+      <u name="TOWER_SNIPER_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="650" level="1" x="4880" y="2640" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="5000" level="1" x="4880" y="2480" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="11000" level="2" x="4880" y="2320" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="22000" level="2" x="4880" y="2160" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_RANGE_I" category="TOWER_RANGE" values="0.2" price="600" level="1" x="4560" y="2960" pivot-x="0" pivot-y="0">
+      <u name="TOWER_SNIPER_RANGE_II" category="TOWER_RANGE" values="0.45" price="1850" level="2" x="4560" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_RANGE_III" category="TOWER_RANGE" values="0.75" price="7500" level="3" x="4560" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_RANGE_IV" category="TOWER_RANGE" values="1.05" price="16500" level="4" x="4560" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_RANGE_V" category="TOWER_RANGE" values="1.35" price="33000" level="5" x="4560" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_DAMAGE_I" category="TOWER_DAMAGE" values="0.6" price="550" level="1" x="5040" y="2640" pivot-x="0" pivot-y="160">
+      <u name="TOWER_SNIPER_DAMAGE_II" category="TOWER_DAMAGE" values="1.35" price="1600" level="2" x="5040" y="2480" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_DAMAGE_III" category="TOWER_DAMAGE" values="2.35" price="6750" level="3" x="5040" y="2320" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_DAMAGE_IV" category="TOWER_DAMAGE" values="3.35" price="15000" level="4" x="5040" y="2160" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_DAMAGE_V" category="TOWER_DAMAGE" values="4.35" price="30000" level="5" x="5040" y="2000" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.008" price="950" level="1" x="5520" y="2160" pivot-x="0" pivot-y="160">
+      <u name="TOWER_SNIPER_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.018" price="2700" level="2" x="5520" y="2000" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.031" price="9750" level="3" x="5520" y="1840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.044" price="21000" level="4" x="5680" y="1680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.057" price="42000" level="5" x="5840" y="1520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_ROTATION_SPEED_I" category="TOWER_ROTATION_SPEED" values="2" price="950" level="1" x="5200" y="2800" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_SNIPER_ROTATION_SPEED_II" category="TOWER_ROTATION_SPEED" values="5" price="2700" level="2" x="5360" y="2640" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_ROTATION_SPEED_III" category="TOWER_ROTATION_SPEED" values="10" price="9750" level="3" x="5520" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_ROTATION_SPEED_IV" category="TOWER_ROTATION_SPEED" values="15" price="21000" level="4" x="5680" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_ROTATION_SPEED_V" category="TOWER_ROTATION_SPEED" values="20" price="42000" level="5" x="5840" y="2480" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_AIM_TIME_I" category="TOWER_AIM_TIME" values="-0.03" price="750" level="1" x="5200" y="2480" pivot-x="0" pivot-y="160">
+      <u name="TOWER_SNIPER_AIM_TIME_II" category="TOWER_AIM_TIME" values="-0.065" price="2000" level="2" x="5200" y="2320" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_AIM_TIME_III" category="TOWER_AIM_TIME" values="-0.105" price="8100" level="3" x="5200" y="2160" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_AIM_TIME_IV" category="TOWER_AIM_TIME" values="-0.145" price="18000" level="4" x="5200" y="2000" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_AIM_TIME_V" category="TOWER_AIM_TIME" values="-0.185" price="36000" level="5" x="5200" y="1840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_U_CRIT_CHANCE_I" category="TOWER_U_CRIT_CHANCE" values="1" price="1000" level="1" x="5360" y="2320" pivot-x="0" pivot-y="160">
+      <u name="TOWER_SNIPER_U_CRIT_CHANCE_II" category="TOWER_U_CRIT_CHANCE" values="2.1" price="3000" level="2" x="5360" y="2160" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_U_CRIT_CHANCE_III" category="TOWER_U_CRIT_CHANCE" values="3.4" price="11500" level="3" x="5360" y="2000" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_U_CRIT_CHANCE_IV" category="TOWER_U_CRIT_CHANCE" values="4.7" price="25600" level="4" x="5360" y="1840" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_U_CRIT_CHANCE_V" category="TOWER_U_CRIT_CHANCE" values="6" price="51200" level="5" x="5520" y="1680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SNIPER_U_CRIT_DAMAGE_I" category="TOWER_U_CRIT_DAMAGE" values="5" price="800" level="1" x="5040" y="2960" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_SNIPER_U_CRIT_DAMAGE_II" category="TOWER_U_CRIT_DAMAGE" values="11" price="2250" level="2" x="5200" y="2960" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SNIPER_U_CRIT_DAMAGE_III" category="TOWER_U_CRIT_DAMAGE" values="19" price="8800" level="3" x="5360" y="2800" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SNIPER_U_CRIT_DAMAGE_IV" category="TOWER_U_CRIT_DAMAGE" values="27" price="19000" level="4" x="5520" y="2800" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SNIPER_U_CRIT_DAMAGE_V" category="TOWER_U_CRIT_DAMAGE" values="35" price="38000" level="5" x="5680" y="2640" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_CANNON" category="TOWER_TYPE_CANNON" values="0" price="100" level="0" x="4080" y="1840" pivot-x="0" pivot-y="0">
+    <u name="TOWER_CANNON_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="175" level="1" x="4240" y="1200" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_CANNON_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="400" level="2" x="4240" y="1040" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="1425" level="3" x="4240" y="880" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="8500" level="4" x="4240" y="720" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="68000" level="5" x="4240" y="560" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="225" level="1" x="3920" y="880" pivot-x="160" pivot-y="160">
+      <u name="TOWER_CANNON_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="650" level="2" x="3920" y="720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="2450" level="3" x="3920" y="560" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_PRICE_I" category="TOWER_PRICE" values="57" price="350" level="1" x="4240" y="1520" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_CANNON_PRICE_II" category="TOWER_PRICE" values="54" price="800" level="2" x="4400" y="1520" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_PRICE_III" category="TOWER_PRICE" values="51" price="2850" level="3" x="4560" y="1360" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_PRICE_IV" category="TOWER_PRICE" values="48" price="6200" level="4" x="4720" y="1200" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_PRICE_V" category="TOWER_PRICE" values="45" price="12400" level="5" x="4880" y="1040" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="475" level="1" x="4400" y="1840" pivot-x="0" pivot-y="0">
+      <u name="TOWER_CANNON_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="1700" level="2" x="4560" y="1840" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="13500" level="3" x="4720" y="1840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="40500" level="4" x="4880" y="1680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="81000" level="5" x="5040" y="1520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="400" level="1" x="4240" y="1680" pivot-x="0" pivot-y="0">
+      <u name="TOWER_CANNON_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="825" level="2" x="4400" y="1680" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="3950" level="3" x="4560" y="1680" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="8600" level="4" x="4720" y="1520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="17200" level="5" x="4880" y="1360" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_RANGE_I" category="TOWER_RANGE" values="0.05" price="450" level="1" x="4240" y="1360" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_CANNON_RANGE_II" category="TOWER_RANGE" values="0.1" price="1350" level="2" x="4400" y="1200" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_RANGE_III" category="TOWER_RANGE" values="0.165" price="5500" level="3" x="4560" y="1040" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_RANGE_IV" category="TOWER_RANGE" values="0.23" price="12000" level="4" x="4560" y="880" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_RANGE_V" category="TOWER_RANGE" values="0.295" price="24000" level="5" x="4560" y="720" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_DAMAGE_I" category="TOWER_DAMAGE" values="0.14" price="575" level="1" x="3920" y="1360" pivot-x="160" pivot-y="160">
+      <u name="TOWER_CANNON_DAMAGE_II" category="TOWER_DAMAGE" values="0.3" price="1650" level="2" x="3760" y="1200" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_DAMAGE_III" category="TOWER_DAMAGE" values="0.48" price="6900" level="3" x="3600" y="1040" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_DAMAGE_IV" category="TOWER_DAMAGE" values="0.64" price="15000" level="4" x="3600" y="880" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_DAMAGE_V" category="TOWER_DAMAGE" values="0.82" price="30000" level="5" x="3600" y="720" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.02" price="550" level="1" x="3920" y="1520" pivot-x="160" pivot-y="160">
+      <u name="TOWER_CANNON_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.04" price="1400" level="2" x="3760" y="1520" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.065" price="6500" level="3" x="3600" y="1360" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.09" price="14000" level="4" x="3440" y="1200" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.115" price="28000" level="5" x="3280" y="1040" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_ROTATION_N_PROJECTILE_SPEED_I" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.1,2" price="425" level="1" x="3760" y="1840" pivot-x="0" pivot-y="0">
+      <u name="TOWER_CANNON_ROTATION_N_PROJECTILE_SPEED_II" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.2,5" price="1250" level="2" x="3600" y="1840" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_ROTATION_N_PROJECTILE_SPEED_III" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.35,8" price="4850" level="3" x="3440" y="1840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_ROTATION_N_PROJECTILE_SPEED_IV" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.5,11" price="10500" level="4" x="3280" y="1680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_ROTATION_N_PROJECTILE_SPEED_V" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.65,14" price="21000" level="5" x="3120" y="1520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_CANNON_U_PROJECTILE_EXPLOSION_RANGE_I" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.025" price="650" level="1" x="3920" y="1680" pivot-x="0" pivot-y="0">
+      <u name="TOWER_CANNON_U_PROJECTILE_EXPLOSION_RANGE_II" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.055" price="1850" level="2" x="3760" y="1680" pivot-x="0" pivot-y="0">
+        <u name="TOWER_CANNON_U_PROJECTILE_EXPLOSION_RANGE_III" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.09" price="7300" level="3" x="3600" y="1680" pivot-x="0" pivot-y="0">
+          <u name="TOWER_CANNON_U_PROJECTILE_EXPLOSION_RANGE_IV" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.125" price="16000" level="4" x="3440" y="1520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_CANNON_U_PROJECTILE_EXPLOSION_RANGE_V" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.16" price="32000" level="5" x="3280" y="1360" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_SPLASH" category="TOWER_TYPE_SPLASH" values="0" price="1000" level="0" x="3920" y="4880" pivot-x="160" pivot-y="-160">
+    <u name="TOWER_SPLASH_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="300" level="1" x="2960" y="5680" pivot-x="160" pivot-y="0">
+      <u name="TOWER_SPLASH_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="900" level="2" x="2800" y="5680" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="3450" level="3" x="2640" y="5680" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="20600" level="4" x="2480" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="165000" level="5" x="2320" y="5680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="375" level="1" x="3280" y="5680" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_SPLASH_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="1275" level="2" x="3120" y="5840" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="3850" level="3" x="2960" y="5840" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_PRICE_I" category="TOWER_PRICE" values="67" price="600" level="1" x="3280" y="5360" pivot-x="160" pivot-y="0">
+      <u name="TOWER_SPLASH_PRICE_II" category="TOWER_PRICE" values="63" price="1800" level="2" x="3120" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_PRICE_III" category="TOWER_PRICE" values="60" price="6950" level="3" x="2960" y="5360" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_PRICE_IV" category="TOWER_PRICE" values="56" price="15000" level="4" x="2800" y="5360" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_PRICE_V" category="TOWER_PRICE" values="52" price="30000" level="5" x="2640" y="5360" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="775" level="1" x="3440" y="5200" pivot-x="160" pivot-y="0">
+      <u name="TOWER_SPLASH_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="3750" level="2" x="3280" y="5200" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="20600" level="3" x="3120" y="5200" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="62000" level="4" x="2960" y="5200" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="124000" level="5" x="2800" y="5200" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="550" level="0" x="3120" y="5520" pivot-x="160" pivot-y="0">
+      <u name="TOWER_SPLASH_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="1400" level="1" x="2960" y="5520" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="5000" level="1" x="2800" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="11000" level="2" x="2640" y="5520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="22000" level="2" x="2480" y="5520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_RANGE_I" category="TOWER_RANGE" values="0.06" price="700" level="1" x="3600" y="5040" pivot-x="160" pivot-y="0">
+      <u name="TOWER_SPLASH_RANGE_II" category="TOWER_RANGE" values="0.125" price="2350" level="2" x="3440" y="5040" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_RANGE_III" category="TOWER_RANGE" values="0.195" price="7800" level="3" x="3280" y="5040" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_RANGE_IV" category="TOWER_RANGE" values="0.27" price="16800" level="4" x="3120" y="5040" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_RANGE_V" category="TOWER_RANGE" values="0.34" price="33600" level="5" x="2960" y="5040" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_DAMAGE_I" category="TOWER_DAMAGE" values="0.1" price="800" level="1" x="3440" y="5520" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_SPLASH_DAMAGE_II" category="TOWER_DAMAGE" values="0.22" price="2700" level="2" x="3440" y="5680" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_DAMAGE_III" category="TOWER_DAMAGE" values="0.37" price="8400" level="3" x="3280" y="5840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_DAMAGE_IV" category="TOWER_DAMAGE" values="0.52" price="18500" level="4" x="3120" y="6000" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_DAMAGE_V" category="TOWER_DAMAGE" values="0.67" price="37000" level="5" x="2960" y="6000" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.03" price="750" level="1" x="3920" y="5040" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_SPLASH_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.06" price="2550" level="2" x="3920" y="5200" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.1" price="8150" level="3" x="3920" y="5360" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.14" price="18000" level="4" x="3920" y="5520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.18" price="36000" level="5" x="3920" y="5680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_ACCURACY_I" category="TOWER_ACCURACY" values="0.5" price="725" level="1" x="3760" y="4880" pivot-x="0" pivot-y="0">
+      <u name="TOWER_SPLASH_ACCURACY_II" category="TOWER_ACCURACY" values="1.1" price="2500" level="2" x="3600" y="4880" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_ACCURACY_III" category="TOWER_ACCURACY" values="1.8" price="7650" level="3" x="3440" y="4880" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_ACCURACY_IV" category="TOWER_ACCURACY" values="2.5" price="16500" level="4" x="3280" y="4880" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_ACCURACY_V" category="TOWER_ACCURACY" values="3.2" price="33000" level="5" x="3120" y="4880" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_U_PROJECTILE_COUNT_I" category="TOWER_U_PROJECTILE_COUNT" values="0.2" price="950" level="1" x="3760" y="5200" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_SPLASH_U_PROJECTILE_COUNT_II" category="TOWER_U_PROJECTILE_COUNT" values="0.45" price="3250" level="2" x="3760" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_U_PROJECTILE_COUNT_III" category="TOWER_U_PROJECTILE_COUNT" values="0.75" price="9500" level="3" x="3760" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_U_PROJECTILE_COUNT_IV" category="TOWER_U_PROJECTILE_COUNT" values="1.05" price="21000" level="4" x="3760" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_U_PROJECTILE_COUNT_V" category="TOWER_U_PROJECTILE_COUNT" values="1.35" price="42000" level="5" x="3600" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_SPLASH_S_COMBO_HIT_DAMAGE_I" category="TOWER_S_COMBO_HIT_DAMAGE" values="48" price="900" level="1" x="3600" y="5360" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_SPLASH_S_COMBO_HIT_DAMAGE_II" category="TOWER_S_COMBO_HIT_DAMAGE" values="45" price="3100" level="2" x="3600" y="5520" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SPLASH_S_COMBO_HIT_DAMAGE_III" category="TOWER_S_COMBO_HIT_DAMAGE" values="40" price="8900" level="3" x="3600" y="5680" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SPLASH_S_COMBO_HIT_DAMAGE_IV" category="TOWER_S_COMBO_HIT_DAMAGE" values="35" price="19200" level="4" x="3440" y="5840" pivot-x="0" pivot-y="0">
+            <u name="TOWER_SPLASH_S_COMBO_HIT_DAMAGE_V" category="TOWER_S_COMBO_HIT_DAMAGE" values="30" price="38400" level="5" x="3280" y="6000" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_MULTISHOT" category="TOWER_TYPE_MULTISHOT" values="0" price="1250" level="0" x="5520" y="5040" pivot-x="-960" pivot-y="-960">
+    <u name="TOWER_MULTISHOT_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="275" level="1" x="5680" y="5200" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MULTISHOT_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="850" level="2" x="5840" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="3425" level="3" x="6000" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="20500" level="4" x="6160" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="165000" level="5" x="6320" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="375" level="1" x="5840" y="5200" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MULTISHOT_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="1125" level="2" x="6000" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="3650" level="3" x="6160" y="5520" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_PRICE_I" category="TOWER_PRICE" values="86" price="575" level="1" x="5520" y="4880" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MULTISHOT_PRICE_II" category="TOWER_PRICE" values="81" price="1700" level="2" x="5360" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_PRICE_III" category="TOWER_PRICE" values="77" price="6850" level="3" x="5200" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_PRICE_IV" category="TOWER_PRICE" values="72" price="15000" level="4" x="5040" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_PRICE_V" category="TOWER_PRICE" values="67" price="30000" level="5" x="4880" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="650" level="1" x="6480" y="5200" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MULTISHOT_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="3000" level="2" x="6640" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="19000" level="3" x="6800" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="57000" level="4" x="6960" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="114000" level="5" x="7120" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="600" level="0" x="6000" y="5200" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MULTISHOT_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="1750" level="1" x="6160" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="6550" level="1" x="6320" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="14500" level="2" x="6480" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="29000" level="2" x="6640" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_RANGE_I" category="TOWER_RANGE" values="0.1" price="725" level="1" x="5680" y="4880" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MULTISHOT_RANGE_II" category="TOWER_RANGE" values="0.2" price="2350" level="2" x="5520" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_RANGE_III" category="TOWER_RANGE" values="0.35" price="7500" level="3" x="5360" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_RANGE_IV" category="TOWER_RANGE" values="0.5" price="16500" level="4" x="5200" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_RANGE_V" category="TOWER_RANGE" values="0.65" price="33000" level="5" x="5040" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_DAMAGE_I" category="TOWER_DAMAGE" values="0.06" price="800" level="1" x="6320" y="5200" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MULTISHOT_DAMAGE_II" category="TOWER_DAMAGE" values="0.125" price="2500" level="2" x="6480" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_DAMAGE_III" category="TOWER_DAMAGE" values="0.26" price="8100" level="3" x="6640" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_DAMAGE_IV" category="TOWER_DAMAGE" values="0.35" price="18000" level="4" x="6800" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_DAMAGE_V" category="TOWER_DAMAGE" values="0.44" price="36000" level="5" x="6960" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.04" price="750" level="1" x="5840" y="4880" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MULTISHOT_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.082" price="2400" level="2" x="5680" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.127" price="7850" level="3" x="5520" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.172" price="17000" level="4" x="5360" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.217" price="34000" level="5" x="5200" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_ROTATION_N_PROJECTILE_SPEED_I" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.15,3" price="725" level="1" x="6000" y="4880" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MULTISHOT_ROTATION_N_PROJECTILE_SPEED_II" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.35,7" price="2200" level="2" x="5840" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_ROTATION_N_PROJECTILE_SPEED_III" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.6,11" price="7250" level="3" x="5680" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_ROTATION_N_PROJECTILE_SPEED_IV" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.85,15" price="16000" level="4" x="5520" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_ROTATION_N_PROJECTILE_SPEED_V" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="1.1,19" price="32000" level="5" x="5360" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_U_SHOT_ANGLE_I" category="TOWER_U_SHOT_ANGLE" values="-2" price="700" level="1" x="6160" y="5200" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MULTISHOT_U_SHOT_ANGLE_II" category="TOWER_U_SHOT_ANGLE" values="-4.5" price="2100" level="2" x="6320" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_U_SHOT_ANGLE_III" category="TOWER_U_SHOT_ANGLE" values="-7.5" price="6500" level="3" x="6480" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_U_SHOT_ANGLE_IV" category="TOWER_U_SHOT_ANGLE" values="-10.5" price="14000" level="4" x="6640" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_U_SHOT_ANGLE_V" category="TOWER_U_SHOT_ANGLE" values="-13.5" price="28000" level="5" x="6800" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MULTISHOT_U_PROJECTILE_COUNT_I" category="TOWER_U_PROJECTILE_COUNT" values="0.2" price="875" level="1" x="6160" y="4880" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MULTISHOT_U_PROJECTILE_COUNT_II" category="TOWER_U_PROJECTILE_COUNT" values="0.42" price="2700" level="2" x="6000" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MULTISHOT_U_PROJECTILE_COUNT_III" category="TOWER_U_PROJECTILE_COUNT" values="0.65" price="8100" level="3" x="5840" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MULTISHOT_U_PROJECTILE_COUNT_IV" category="TOWER_U_PROJECTILE_COUNT" values="0.88" price="18000" level="4" x="5680" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MULTISHOT_U_PROJECTILE_COUNT_V" category="TOWER_U_PROJECTILE_COUNT" values="1.11" price="36000" level="5" x="5520" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_MINIGUN" category="TOWER_TYPE_MINIGUN" values="0" price="1500" level="0" x="2640" y="3120" pivot-x="960" pivot-y="960">
+    <u name="TOWER_MINIGUN_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="325" level="1" x="2320" y="2960" pivot-x="160" pivot-y="160">
+      <u name="TOWER_MINIGUN_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="950" level="2" x="2160" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="4450" level="3" x="2000" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="26600" level="4" x="1840" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="214000" level="5" x="1680" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="350" level="1" x="2160" y="2960" pivot-x="160" pivot-y="160">
+      <u name="TOWER_MINIGUN_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="1375" level="2" x="2000" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="3900" level="3" x="1840" y="2640" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_PRICE_I" category="TOWER_PRICE" values="152" price="650" level="1" x="2000" y="2960" pivot-x="160" pivot-y="160">
+      <u name="TOWER_MINIGUN_PRICE_II" category="TOWER_PRICE" values="144" price="1900" level="2" x="1840" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_PRICE_III" category="TOWER_PRICE" values="136" price="8900" level="3" x="1680" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_PRICE_IV" category="TOWER_PRICE" values="128" price="19600" level="4" x="1520" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_PRICE_V" category="TOWER_PRICE" values="120" price="39200" level="5" x="1360" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2" price="750" level="1" x="2640" y="3280" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MINIGUN_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5" price="3400" level="2" x="2800" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="22600" level="3" x="2960" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="67800" level="4" x="3120" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="135600" level="5" x="3280" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="675" level="0" x="2480" y="3280" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MINIGUN_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="2100" level="1" x="2640" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="7500" level="1" x="2800" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="16500" level="2" x="2960" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="33000" level="2" x="3120" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_RANGE_I" category="TOWER_RANGE" values="0.11" price="800" level="1" x="2320" y="3280" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_MINIGUN_RANGE_II" category="TOWER_RANGE" values="0.23" price="2375" level="2" x="2480" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_RANGE_III" category="TOWER_RANGE" values="0.36" price="8800" level="3" x="2640" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_RANGE_IV" category="TOWER_RANGE" values="0.49" price="19000" level="4" x="2800" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_RANGE_V" category="TOWER_RANGE" values="0.62" price="38000" level="5" x="2960" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_DAMAGE_I" category="TOWER_DAMAGE" values="0.1" price="925" level="1" x="2160" y="3280" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_MINIGUN_DAMAGE_II" category="TOWER_DAMAGE" values="0.21" price="3100" level="2" x="2320" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_DAMAGE_III" category="TOWER_DAMAGE" values="0.34" price="11000" level="3" x="2480" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_DAMAGE_IV" category="TOWER_DAMAGE" values="0.46" price="24000" level="4" x="2640" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_DAMAGE_V" category="TOWER_DAMAGE" values="0.59" price="48000" level="5" x="2800" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.15" price="900" level="1" x="1840" y="2960" pivot-x="160" pivot-y="160">
+      <u name="TOWER_MINIGUN_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.31" price="2950" level="2" x="1680" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.49" price="10000" level="3" x="1520" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.67" price="22000" level="4" x="1360" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.85" price="44000" level="5" x="1200" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_ROTATION_SPEED_I" category="TOWER_ROTATION_SPEED" values="4" price="750" level="1" x="2000" y="3280" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_MINIGUN_ROTATION_SPEED_II" category="TOWER_ROTATION_SPEED" values="8.5" price="2700" level="2" x="2160" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_ROTATION_SPEED_III" category="TOWER_ROTATION_SPEED" values="13.5" price="7750" level="3" x="2320" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_ROTATION_SPEED_IV" category="TOWER_ROTATION_SPEED" values="18.5" price="17000" level="4" x="2480" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_ROTATION_SPEED_V" category="TOWER_ROTATION_SPEED" values="23.5" price="34000" level="5" x="2640" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MINIGUN_U_SPEED_UP_TIME_I" category="TOWER_U_SPEED_UP_TIME" values="-0.12" price="1050" level="1" x="1680" y="2960" pivot-x="160" pivot-y="160">
+      <u name="TOWER_MINIGUN_U_SPEED_UP_TIME_II" category="TOWER_U_SPEED_UP_TIME" values="-0.24" price="3900" level="2" x="1520" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MINIGUN_U_SPEED_UP_TIME_III" category="TOWER_U_SPEED_UP_TIME" values="-0.39" price="13150" level="3" x="1360" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MINIGUN_U_SPEED_UP_TIME_IV" category="TOWER_U_SPEED_UP_TIME" values="-0.54" price="29000" level="4" x="1200" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MINIGUN_U_SPEED_UP_TIME_V" category="TOWER_U_SPEED_UP_TIME" values="-0.69" price="58000" level="5" x="1040" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_VENOM" category="TOWER_TYPE_VENOM" values="0" price="750" level="0" x="2640" y="5040" pivot-x="960" pivot-y="-960">
+    <u name="TOWER_VENOM_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="200" level="1" x="2320" y="5200" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_VENOM_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="650" level="2" x="2160" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="2550" level="3" x="2000" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="15400" level="4" x="1840" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="123000" level="5" x="1664" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="325" level="1" x="2160" y="5200" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_VENOM_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="900" level="2" x="2000" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="3550" level="3" x="1840" y="5520" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_PRICE_I" category="TOWER_PRICE" values="114" price="425" level="1" x="2480" y="4880" pivot-x="0" pivot-y="0">
+      <u name="TOWER_VENOM_PRICE_II" category="TOWER_PRICE" values="108" price="1375" level="2" x="2640" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_PRICE_III" category="TOWER_PRICE" values="102" price="5100" level="3" x="2800" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_PRICE_IV" category="TOWER_PRICE" values="96" price="11000" level="4" x="2960" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_PRICE_V" category="TOWER_PRICE" values="90" price="22000" level="5" x="3120" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="650" level="1" x="2000" y="4880" pivot-x="160" pivot-y="160">
+      <u name="TOWER_VENOM_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="2250" level="2" x="2160" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="17000" level="3" x="2320" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="51000" level="4" x="2480" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="102000" level="5" x="2640" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="400" level="0" x="1680" y="5200" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_VENOM_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="875" level="1" x="1520" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="4250" level="1" x="1360" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="9200" level="2" x="1200" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="18400" level="2" x="1040" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_RANGE_I" category="TOWER_RANGE" values="0.08" price="450" level="1" x="2160" y="4880" pivot-x="160" pivot-y="160">
+      <u name="TOWER_VENOM_RANGE_II" category="TOWER_RANGE" values="0.16" price="1300" level="2" x="2320" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_RANGE_III" category="TOWER_RANGE" values="0.26" price="5400" level="3" x="2480" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_RANGE_IV" category="TOWER_RANGE" values="0.36" price="12000" level="4" x="2640" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_RANGE_V" category="TOWER_RANGE" values="0.46" price="24000" level="5" x="2800" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_POISON_DAMAGE_I" category="TOWER_POISON_DAMAGE" values="0.06" price="700" level="1" x="1840" y="5200" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_VENOM_POISON_DAMAGE_II" category="TOWER_POISON_DAMAGE" values="0.13" price="1875" level="2" x="1680" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_POISON_DAMAGE_III" category="TOWER_POISON_DAMAGE" values="0.21" price="7900" level="3" x="1520" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_POISON_DAMAGE_IV" category="TOWER_POISON_DAMAGE" values="0.29" price="17000" level="4" x="1360" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_POISON_DAMAGE_V" category="TOWER_POISON_DAMAGE" values="0.37" price="34000" level="5" x="1200" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.03" price="625" level="1" x="2640" y="4880" pivot-x="0" pivot-y="0">
+      <u name="TOWER_VENOM_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.06" price="1600" level="2" x="2800" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.1" price="6600" level="3" x="2960" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.14" price="14600" level="4" x="3120" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.18" price="29200" level="5" x="3280" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_ROTATION_N_PROJECTILE_SPEED_I" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.1,2" price="625" level="1" x="2000" y="5200" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_VENOM_ROTATION_N_PROJECTILE_SPEED_II" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.2,5" price="1750" level="2" x="1840" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_ROTATION_N_PROJECTILE_SPEED_III" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.4,9" price="7050" level="3" x="1680" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_ROTATION_N_PROJECTILE_SPEED_IV" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.6,13" price="15500" level="4" x="1520" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_ROTATION_N_PROJECTILE_SPEED_V" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.8,17" price="31000" level="5" x="1360" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_VENOM_U_POISON_DURATION_I" category="TOWER_U_POISON_DURATION" values="0.25" price="700" level="1" x="2320" y="4880" pivot-x="160" pivot-y="160">
+      <u name="TOWER_VENOM_U_POISON_DURATION_II" category="TOWER_U_POISON_DURATION" values="0.55" price="1925" level="2" x="2480" y="4720" pivot-x="0" pivot-y="0">
+        <u name="TOWER_VENOM_U_POISON_DURATION_III" category="TOWER_U_POISON_DURATION" values="0.9" price="8000" level="3" x="2640" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_VENOM_U_POISON_DURATION_IV" category="TOWER_U_POISON_DURATION" values="1.25" price="17500" level="4" x="2800" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_VENOM_U_POISON_DURATION_V" category="TOWER_U_POISON_DURATION" values="1.6" price="35000" level="5" x="2960" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_FROST" category="TOWER_TYPE_FROST" values="0" price="250" level="0" x="4080" y="6640" pivot-x="0" pivot-y="0">
+    <u name="TOWER_FROST_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="100" level="1" x="3920" y="6960" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_FROST_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="300" level="2" x="3760" y="7120" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="1300" level="3" x="3600" y="7280" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="7800" level="4" x="3440" y="7280" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="62500" level="5" x="3280" y="7280" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="225" level="1" x="4240" y="6960" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_FROST_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="575" level="2" x="4400" y="7120" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="1975" level="3" x="4560" y="7280" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_FROST_PRICE_I" category="TOWER_PRICE" values="67" price="225" level="1" x="4720" y="6480" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_FROST_PRICE_II" category="TOWER_PRICE" values="63" price="625" level="2" x="4880" y="6480" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_PRICE_III" category="TOWER_PRICE" values="60" price="2600" level="3" x="5040" y="6480" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_PRICE_IV" category="TOWER_PRICE" values="56" price="5600" level="4" x="5200" y="6480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_PRICE_V" category="TOWER_PRICE" values="52" price="11200" level="5" x="5360" y="6480" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="500" level="1" x="4400" y="6480" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_FROST_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="1850" level="2" x="4560" y="6320" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="15600" level="3" x="4720" y="6320" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="47000" level="4" x="4880" y="6320" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="94000" level="5" x="5040" y="6320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="375" level="0" x="3760" y="6480" pivot-x="160" pivot-y="0">
+      <u name="TOWER_FROST_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="750" level="1" x="3600" y="6320" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="3500" level="1" x="3440" y="6320" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="7800" level="2" x="3280" y="6320" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="15600" level="2" x="3120" y="6320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_RANGE_I" category="TOWER_RANGE" values="0.06" price="550" level="1" x="3440" y="6800" pivot-x="160" pivot-y="-160">
+      <u name="TOWER_FROST_RANGE_II" category="TOWER_RANGE" values="0.125" price="1650" level="2" x="3280" y="6800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_RANGE_III" category="TOWER_RANGE" values="0.205" price="6750" level="3" x="3120" y="6800" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_RANGE_IV" category="TOWER_RANGE" values="0.285" price="14700" level="4" x="2960" y="6800" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_RANGE_V" category="TOWER_RANGE" values="0.365" price="29400" level="5" x="2800" y="6800" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_FREEZE_PERCENT_I" category="TOWER_FREEZE_PERCENT" values="1" price="850" level="1" x="4400" y="6800" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_FROST_FREEZE_PERCENT_II" category="TOWER_FREEZE_PERCENT" values="2" price="2450" level="2" x="4560" y="6960" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_FREEZE_PERCENT_III" category="TOWER_FREEZE_PERCENT" values="3.5" price="9750" level="3" x="4720" y="6960" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_FREEZE_PERCENT_IV" category="TOWER_FREEZE_PERCENT" values="5" price="28000" level="4" x="4880" y="6960" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_FREEZE_PERCENT_V" category="TOWER_FREEZE_PERCENT" values="6.5" price="80000" level="5" x="5040" y="6960" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_FREEZE_SPEED_I" category="TOWER_FREEZE_SPEED" values="-0.09" price="450" level="1" x="4720" y="6800" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_FROST_FREEZE_SPEED_II" category="TOWER_FREEZE_SPEED" values="-0.12" price="1150" level="2" x="4880" y="6800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_FREEZE_SPEED_III" category="TOWER_FREEZE_SPEED" values="-0.14" price="4050" level="3" x="5040" y="6800" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_FREEZE_SPEED_IV" category="TOWER_FREEZE_SPEED" values="-0.16" price="8000" level="4" x="5200" y="6800" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_FREEZE_SPEED_V" category="TOWER_FREEZE_SPEED" values="-0.18" price="15000" level="5" x="5360" y="6800" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_MELTDOWN_SPEED_I" category="TOWER_MELTDOWN_SPEED" values="0.05" price="425" level="1" x="4080" y="6800" pivot-x="0" pivot-y="0">
+      <u name="TOWER_FROST_MELTDOWN_SPEED_II" category="TOWER_MELTDOWN_SPEED" values="0.115" price="1100" level="2" x="4080" y="6960" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_MELTDOWN_SPEED_III" category="TOWER_MELTDOWN_SPEED" values="0.195" price="3900" level="3" x="4080" y="7120" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_MELTDOWN_SPEED_IV" category="TOWER_MELTDOWN_SPEED" values="0.28" price="8400" level="4" x="4080" y="7280" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_MELTDOWN_SPEED_V" category="TOWER_MELTDOWN_SPEED" values="0.36" price="16800" level="5" x="4080" y="7440" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_U_POISON_DURATION_BONUS_I" category="TOWER_U_POISON_DURATION_BONUS" values="0.22" price="650" level="1" x="3440" y="6480" pivot-x="160" pivot-y="160">
+      <u name="TOWER_FROST_U_POISON_DURATION_BONUS_II" category="TOWER_U_POISON_DURATION_BONUS" values="0.49" price="1400" level="2" x="3280" y="6480" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_U_POISON_DURATION_BONUS_III" category="TOWER_U_POISON_DURATION_BONUS" values="0.79" price="5500" level="3" x="3120" y="6480" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_U_POISON_DURATION_BONUS_IV" category="TOWER_U_POISON_DURATION_BONUS" values="1.1" price="12200" level="4" x="2960" y="6480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_U_POISON_DURATION_BONUS_V" category="TOWER_U_POISON_DURATION_BONUS" values="1.4" price="24400" level="5" x="2800" y="6480" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_FROST_U_CHAIN_LIGHTNING_LENGTH_BONUS_I" category="TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" values="0.015" price="525" level="1" x="3760" y="6800" pivot-x="160" pivot-y="0">
+      <u name="TOWER_FROST_U_CHAIN_LIGHTNING_LENGTH_BONUS_II" category="TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" values="0.035" price="1250" level="2" x="3600" y="6960" pivot-x="0" pivot-y="0">
+        <u name="TOWER_FROST_U_CHAIN_LIGHTNING_LENGTH_BONUS_III" category="TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" values="0.06" price="4500" level="3" x="3440" y="6960" pivot-x="0" pivot-y="0">
+          <u name="TOWER_FROST_U_CHAIN_LIGHTNING_LENGTH_BONUS_IV" category="TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" values="0.085" price="9700" level="4" x="3280" y="6960" pivot-x="0" pivot-y="0">
+            <u name="TOWER_FROST_U_CHAIN_LIGHTNING_LENGTH_BONUS_V" category="TOWER_U_CHAIN_LIGHTNING_LENGTH_BONUS" values="0.11" price="19400" level="5" x="3120" y="6960" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_AIR" category="TOWER_TYPE_AIR" values="0" price="0" level="0" x="4400" y="4720" pivot-x="-320" pivot-y="-320">
+    <u name="TOWER_AIR_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="175" level="1" x="5840" y="6000" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_AIR_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="475" level="2" x="6000" y="6000" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="1975" level="3" x="6160" y="6160" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="11800" level="4" x="6320" y="6320" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="94000" level="5" x="6480" y="6480" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="275" level="1" x="5520" y="6000" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_AIR_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="875" level="2" x="5680" y="6160" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="3025" level="3" x="5840" y="6160" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_AIR_PRICE_I" category="TOWER_PRICE" values="57" price="375" level="1" x="4240" y="4880" pivot-x="0" pivot-y="0">
+      <u name="TOWER_AIR_PRICE_II" category="TOWER_PRICE" values="54" price="950" level="2" x="4240" y="5040" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_PRICE_III" category="TOWER_PRICE" values="51" price="3950" level="3" x="4240" y="5200" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_PRICE_IV" category="TOWER_PRICE" values="48" price="8500" level="4" x="4240" y="5360" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_PRICE_V" category="TOWER_PRICE" values="45" price="17000" level="5" x="4240" y="5520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="450" level="1" x="4880" y="5040" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_AIR_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="1800" level="2" x="5040" y="5040" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="14000" level="3" x="5200" y="5200" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="42000" level="4" x="5360" y="5360" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="84000" level="5" x="5520" y="5520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="400" level="0" x="4880" y="5360" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_AIR_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="1350" level="1" x="4880" y="5520" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="5500" level="1" x="5040" y="5680" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="12000" level="2" x="5200" y="5840" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="24000" level="2" x="5200" y="6000" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_RANGE_I" category="TOWER_RANGE" values="0.2" price="450" level="1" x="4560" y="5040" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_AIR_RANGE_II" category="TOWER_RANGE" values="0.4" price="1500" level="2" x="4560" y="5200" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_RANGE_III" category="TOWER_RANGE" values="0.62" price="5650" level="3" x="4560" y="5360" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_RANGE_IV" category="TOWER_RANGE" values="0.84" price="12200" level="4" x="4560" y="5520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_RANGE_V" category="TOWER_RANGE" values="1.06" price="24400" level="5" x="4720" y="5680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_DAMAGE_I" category="TOWER_DAMAGE" values="0.24" price="625" level="1" x="4400" y="5040" pivot-x="0" pivot-y="0">
+      <u name="TOWER_AIR_DAMAGE_II" category="TOWER_DAMAGE" values="0.5" price="1900" level="2" x="4400" y="5200" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_DAMAGE_III" category="TOWER_DAMAGE" values="0.8" price="6500" level="3" x="4400" y="5360" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_DAMAGE_IV" category="TOWER_DAMAGE" values="1.1" price="14500" level="4" x="4400" y="5520" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_DAMAGE_V" category="TOWER_DAMAGE" values="1.4" price="29000" level="5" x="4560" y="5680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.15" price="550" level="1" x="4720" y="4880" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_AIR_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.31" price="1650" level="2" x="4880" y="4880" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.49" price="5750" level="3" x="5040" y="4880" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.67" price="12400" level="4" x="5200" y="5040" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.85" price="24800" level="5" x="5360" y="5200" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_ROTATION_N_PROJECTILE_SPEED_I" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.12,2.4" price="525" level="1" x="5680" y="5840" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_AIR_ROTATION_N_PROJECTILE_SPEED_II" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.26,5" price="1700" level="2" x="5840" y="5840" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_ROTATION_N_PROJECTILE_SPEED_III" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.41,7.7" price="6000" level="3" x="6000" y="5840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_ROTATION_N_PROJECTILE_SPEED_IV" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.56,10.4" price="13000" level="4" x="6160" y="6000" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_ROTATION_N_PROJECTILE_SPEED_V" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.71,13.1" price="26000" level="5" x="6320" y="6160" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_U_BURN_CHANCE_I" category="TOWER_U_BURN_CHANCE" values="0.15" price="725" level="1" x="5040" y="5200" pivot-x="-160" pivot-y="0">
+      <u name="TOWER_AIR_U_BURN_CHANCE_II" category="TOWER_U_BURN_CHANCE" values="0.31" price="2250" level="2" x="5200" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_U_BURN_CHANCE_III" category="TOWER_U_BURN_CHANCE" values="0.49" price="8250" level="3" x="5360" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_U_BURN_CHANCE_IV" category="TOWER_U_BURN_CHANCE" values="0.67" price="18000" level="4" x="5520" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_U_BURN_CHANCE_V" category="TOWER_U_BURN_CHANCE" values="0.85" price="36000" level="5" x="5680" y="5680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_S_BURN_DURATION_I" category="TOWER_S_BURN_DURATION" values="0.5" price="675" level="1" x="5040" y="5520" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_AIR_S_BURN_DURATION_II" category="TOWER_S_BURN_DURATION" values="1.1" price="1900" level="2" x="5200" y="5680" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_S_BURN_DURATION_III" category="TOWER_S_BURN_DURATION" values="1.8" price="7350" level="3" x="5360" y="5840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_S_BURN_DURATION_IV" category="TOWER_S_BURN_DURATION" values="2.5" price="16000" level="4" x="5360" y="6000" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_S_BURN_DURATION_V" category="TOWER_S_BURN_DURATION" values="3.2" price="32000" level="5" x="5520" y="6160" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_AIR_S_BURN_DAMAGE_I" category="TOWER_S_BURN_DAMAGE" values="2.8" price="700" level="1" x="4720" y="5200" pivot-x="0" pivot-y="-160">
+      <u name="TOWER_AIR_S_BURN_DAMAGE_II" category="TOWER_S_BURN_DAMAGE" values="3.2" price="2100" level="2" x="4720" y="5360" pivot-x="0" pivot-y="0">
+        <u name="TOWER_AIR_S_BURN_DAMAGE_III" category="TOWER_S_BURN_DAMAGE" values="3.75" price="7800" level="3" x="4720" y="5520" pivot-x="0" pivot-y="0">
+          <u name="TOWER_AIR_S_BURN_DAMAGE_IV" category="TOWER_S_BURN_DAMAGE" values="4.3" price="16800" level="4" x="4880" y="5680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_AIR_S_BURN_DAMAGE_V" category="TOWER_S_BURN_DAMAGE" values="4.85" price="33600" level="5" x="5040" y="5840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_TESLA" category="TOWER_TYPE_TESLA" values="0" price="2500" level="0" x="5520" y="3120" pivot-x="-960" pivot-y="960">
+    <u name="TOWER_TESLA_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="500" level="1" x="6000" y="2960" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_TESLA_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="1600" level="2" x="6160" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="6250" level="3" x="6320" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="37500" level="4" x="6480" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="300000" level="5" x="6640" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="500" level="1" x="5840" y="2960" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_TESLA_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="1375" level="2" x="6000" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="4475" level="3" x="6160" y="2640" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_PRICE_I" category="TOWER_PRICE" values="105" price="1000" level="1" x="5680" y="3280" pivot-x="0" pivot-y="0">
+      <u name="TOWER_TESLA_PRICE_II" category="TOWER_PRICE" values="99" price="3200" level="2" x="5520" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_PRICE_III" category="TOWER_PRICE" values="94" price="12750" level="3" x="5360" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_PRICE_IV" category="TOWER_PRICE" values="88" price="28000" level="4" x="5200" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_PRICE_V" category="TOWER_PRICE" values="82" price="56000" level="5" x="5040" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="1400" level="1" x="6480" y="2960" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_TESLA_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="9000" level="2" x="6640" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="44000" level="3" x="6800" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="132000" level="4" x="6960" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="264000" level="5" x="7120" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="900" level="0" x="5520" y="3280" pivot-x="0" pivot-y="0">
+      <u name="TOWER_TESLA_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="3500" level="1" x="5360" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="11000" level="1" x="5200" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="24000" level="2" x="5040" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="48000" level="2" x="4880" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_RANGE_I" category="TOWER_RANGE" values="0.1" price="950" level="1" x="6160" y="3280" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_TESLA_RANGE_II" category="TOWER_RANGE" values="0.2" price="2700" level="2" x="6000" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_RANGE_III" category="TOWER_RANGE" values="0.32" price="8900" level="3" x="5840" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_RANGE_IV" category="TOWER_RANGE" values="0.44" price="19200" level="4" x="5680" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_RANGE_V" category="TOWER_RANGE" values="0.56" price="38400" level="5" x="5520" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_DAMAGE_I" category="TOWER_DAMAGE" values="0.12" price="1250" level="1" x="5840" y="3280" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_TESLA_DAMAGE_II" category="TOWER_DAMAGE" values="0.26" price="4250" level="2" x="5680" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_DAMAGE_III" category="TOWER_DAMAGE" values="0.43" price="15000" level="3" x="5520" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_DAMAGE_IV" category="TOWER_DAMAGE" values="0.6" price="33000" level="4" x="5360" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_DAMAGE_V" category="TOWER_DAMAGE" values="0.73" price="66000" level="5" x="5200" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.03" price="1150" level="1" x="6320" y="2960" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_TESLA_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.063" price="4100" level="2" x="6480" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.101" price="14000" level="3" x="6640" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.139" price="31000" level="4" x="6800" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.177" price="62000" level="5" x="6960" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_CHAIN_DAMAGE_I" category="TOWER_CHAIN_DAMAGE" values="1" price="1350" level="1" x="6000" y="3280" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_TESLA_CHAIN_DAMAGE_II" category="TOWER_CHAIN_DAMAGE" values="2.1" price="4700" level="2" x="5840" y="3440" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_CHAIN_DAMAGE_III" category="TOWER_CHAIN_DAMAGE" values="3.3" price="18500" level="3" x="5680" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_CHAIN_DAMAGE_IV" category="TOWER_CHAIN_DAMAGE" values="4.5" price="40000" level="4" x="5520" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_CHAIN_DAMAGE_V" category="TOWER_CHAIN_DAMAGE" values="5.7" price="80000" level="5" x="5360" y="3920" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_TESLA_U_CHAIN_LIGHTNING_LENGTH_I" category="TOWER_U_CHAIN_LIGHTNING_LENGTH" values="0.15" price="1200" level="1" x="6160" y="2960" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_TESLA_U_CHAIN_LIGHTNING_LENGTH_II" category="TOWER_U_CHAIN_LIGHTNING_LENGTH" values="0.33" price="4050" level="2" x="6320" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_TESLA_U_CHAIN_LIGHTNING_LENGTH_III" category="TOWER_U_CHAIN_LIGHTNING_LENGTH" values="0.55" price="13750" level="3" x="6480" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_TESLA_U_CHAIN_LIGHTNING_LENGTH_IV" category="TOWER_U_CHAIN_LIGHTNING_LENGTH" values="0.77" price="30000" level="4" x="6640" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_TESLA_U_CHAIN_LIGHTNING_LENGTH_V" category="TOWER_U_CHAIN_LIGHTNING_LENGTH" values="0.99" price="60000" level="5" x="6800" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_BLAST" category="TOWER_TYPE_BLAST" values="0" price="500" level="0" x="3440" y="2960" pivot-x="640" pivot-y="640">
+    <u name="TOWER_BLAST_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="225" level="1" x="2800" y="2160" pivot-x="0" pivot-y="160">
+      <u name="TOWER_BLAST_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="775" level="2" x="2640" y="2000" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="3250" level="3" x="2480" y="1840" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="19600" level="4" x="2320" y="1680" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="157000" level="5" x="2160" y="1520" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="425" level="1" x="2960" y="2160" pivot-x="0" pivot-y="320">
+      <u name="TOWER_BLAST_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="1475" level="2" x="2800" y="2000" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="4500" level="3" x="2640" y="1840" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_PRICE_I" category="TOWER_PRICE" values="114" price="550" level="1" x="3440" y="2800" pivot-x="0" pivot-y="0">
+      <u name="TOWER_BLAST_PRICE_II" category="TOWER_PRICE" values="108" price="1550" level="2" x="3440" y="2640" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_PRICE_III" category="TOWER_PRICE" values="102" price="6500" level="3" x="3440" y="2480" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_PRICE_IV" category="TOWER_PRICE" values="96" price="14000" level="4" x="3440" y="2320" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_PRICE_V" category="TOWER_PRICE" values="90" price="28000" level="5" x="3440" y="2160" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="600" level="1" x="3600" y="2960" pivot-x="0" pivot-y="0">
+      <u name="TOWER_BLAST_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="2250" level="2" x="3600" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="13400" level="3" x="3600" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="40200" level="4" x="3600" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="80400" level="5" x="3600" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="650" level="0" x="3280" y="2640" pivot-x="0" pivot-y="160">
+      <u name="TOWER_BLAST_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="1800" level="1" x="3280" y="2480" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="5250" level="1" x="3280" y="2320" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="11500" level="2" x="3280" y="2160" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="23000" level="2" x="3120" y="2000" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_RANGE_I" category="TOWER_RANGE" values="0.05" price="900" level="1" x="2640" y="2480" pivot-x="320" pivot-y="0">
+      <u name="TOWER_BLAST_RANGE_II" category="TOWER_RANGE" values="0.11" price="3100" level="2" x="2480" y="2320" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_RANGE_III" category="TOWER_RANGE" values="0.18" price="9550" level="3" x="2320" y="2160" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_RANGE_IV" category="TOWER_RANGE" values="0.25" price="21000" level="4" x="2160" y="2000" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_RANGE_V" category="TOWER_RANGE" values="0.32" price="42000" level="5" x="2000" y="1840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_DAMAGE_I" category="TOWER_DAMAGE" values="0.14" price="825" level="1" x="2960" y="2640" pivot-x="160" pivot-y="0">
+      <u name="TOWER_BLAST_DAMAGE_II" category="TOWER_DAMAGE" values="0.3" price="2900" level="2" x="2800" y="2640" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_DAMAGE_III" category="TOWER_DAMAGE" values="0.48" price="8950" level="3" x="2640" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_DAMAGE_IV" category="TOWER_DAMAGE" values="0.64" price="20000" level="4" x="2480" y="2480" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_DAMAGE_V" category="TOWER_DAMAGE" values="0.82" price="40000" level="5" x="2320" y="2320" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.013" price="875" level="1" x="3120" y="2800" pivot-x="160" pivot-y="0">
+      <u name="TOWER_BLAST_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.028" price="3150" level="2" x="2960" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.046" price="10000" level="3" x="2800" y="2800" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.064" price="22000" level="4" x="2640" y="2800" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.092" price="44000" level="5" x="2480" y="2640" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_STUN_CHANCE_I" category="TOWER_STUN_CHANCE" values="0.35" price="950" level="1" x="3120" y="2480" pivot-x="0" pivot-y="160">
+      <u name="TOWER_BLAST_STUN_CHANCE_II" category="TOWER_STUN_CHANCE" values="0.8" price="3275" level="2" x="3120" y="2320" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_STUN_CHANCE_III" category="TOWER_STUN_CHANCE" values="1.4" price="11500" level="3" x="3120" y="2160" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_STUN_CHANCE_IV" category="TOWER_STUN_CHANCE" values="2" price="25000" level="4" x="2960" y="2000" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_STUN_CHANCE_V" category="TOWER_STUN_CHANCE" values="2.6" price="50000" level="5" x="2800" y="1840" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_BLAST_U_STUN_DURATION_I" category="TOWER_U_STUN_DURATION" values="0.1" price="925" level="1" x="2640" y="2320" pivot-x="160" pivot-y="0">
+      <u name="TOWER_BLAST_U_STUN_DURATION_II" category="TOWER_U_STUN_DURATION" values="0.22" price="3100" level="2" x="2480" y="2160" pivot-x="0" pivot-y="0">
+        <u name="TOWER_BLAST_U_STUN_DURATION_III" category="TOWER_U_STUN_DURATION" values="0.37" price="10750" level="3" x="2320" y="2000" pivot-x="0" pivot-y="0">
+          <u name="TOWER_BLAST_U_STUN_DURATION_IV" category="TOWER_U_STUN_DURATION" values="0.52" price="24000" level="4" x="2160" y="1840" pivot-x="0" pivot-y="0">
+            <u name="TOWER_BLAST_U_STUN_DURATION_V" category="TOWER_U_STUN_DURATION" values="0.67" price="48000" level="5" x="2000" y="1680" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_MISSILE" category="TOWER_TYPE_MISSILE" values="0" price="4000" level="0" x="6000" y="4080" pivot-x="0" pivot-y="0">
+    <u name="TOWER_MISSILE_MAX_TOWER_LEVEL_I" category="TOWER_MAX_TOWER_LEVEL" values="5" price="625" level="1" x="6976" y="4240" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MISSILE_MAX_TOWER_LEVEL_II" category="TOWER_MAX_TOWER_LEVEL" values="7" price="2000" level="2" x="7136" y="4240" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_MAX_TOWER_LEVEL_III" category="TOWER_MAX_TOWER_LEVEL" values="10" price="9000" level="3" x="7280" y="4240" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_MAX_TOWER_LEVEL_IV" category="TOWER_MAX_TOWER_LEVEL" values="15" price="54000" level="4" x="7440" y="4240" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_MAX_TOWER_LEVEL_V" category="TOWER_MAX_TOWER_LEVEL" values="20" price="420000" level="5" x="7600" y="4240" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_MAX_UPGRADE_LEVEL_I" category="TOWER_MAX_UPGRADE_LEVEL" values="5" price="1750" level="1" x="7280" y="3920" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MISSILE_MAX_UPGRADE_LEVEL_II" category="TOWER_MAX_UPGRADE_LEVEL" values="7" price="2950" level="2" x="7440" y="3920" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_MAX_UPGRADE_LEVEL_III" category="TOWER_MAX_UPGRADE_LEVEL" values="10" price="7500" level="3" x="7600" y="3920" pivot-x="0" pivot-y="0"/>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_PRICE_I" category="TOWER_PRICE" values="238" price="1250" level="1" x="6160" y="4240" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MISSILE_PRICE_II" category="TOWER_PRICE" values="225" price="4000" level="2" x="6320" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_PRICE_III" category="TOWER_PRICE" values="213" price="19000" level="3" x="6480" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_PRICE_IV" category="TOWER_PRICE" values="200" price="42000" level="4" x="6640" y="4720" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_PRICE_V" category="TOWER_PRICE" values="187" price="84000" level="5" x="6800" y="4880" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_UPGRADE_PRICE_I" category="TOWER_UPGRADE_PRICE" values="2,0" price="1800" level="1" x="6320" y="4240" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MISSILE_UPGRADE_PRICE_II" category="TOWER_UPGRADE_PRICE" values="5,0" price="10850" level="2" x="6480" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_UPGRADE_PRICE_III" category="TOWER_UPGRADE_PRICE" values="10" price="56000" level="3" x="6640" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_UPGRADE_PRICE_IV" category="TOWER_UPGRADE_PRICE" values="15" price="168000" level="4" x="6800" y="4720" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_UPGRADE_PRICE_V" category="TOWER_UPGRADE_PRICE" values="20" price="336000" level="5" x="6960" y="4880" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_STARTING_EXPERIENCE" category="TOWER_STARTING_EXPERIENCE" values="0" price="2200" level="0" x="6160" y="3920" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MISSILE_EXPERIENCE_BONUS" category="TOWER_EXPERIENCE_BONUS" values="10" price="9250" level="1" x="6320" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_EXPERIENCE_GENERATION" category="TOWER_EXPERIENCE_GENERATION" values="1" price="20000" level="1" x="6480" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_EXPERIENCE_BONUS_II" category="TOWER_EXPERIENCE_BONUS" values="20" price="44000" level="2" x="6640" y="3440" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_EXPERIENCE_GENERATION_II" category="TOWER_EXPERIENCE_GENERATION" values="2" price="88000" level="2" x="6800" y="3280" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_RANGE_I" category="TOWER_RANGE" values="0.16" price="1500" level="1" x="6000" y="4240" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MISSILE_RANGE_II" category="TOWER_RANGE" values="0.33" price="3250" level="2" x="6160" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_RANGE_III" category="TOWER_RANGE" values="0.53" price="9500" level="3" x="6320" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_RANGE_IV" category="TOWER_RANGE" values="0.73" price="20500" level="4" x="6480" y="4720" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_RANGE_V" category="TOWER_RANGE" values="0.93" price="41000" level="5" x="6640" y="4880" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_DAMAGE_I" category="TOWER_DAMAGE" values="0.6" price="1950" level="1" x="6320" y="3920" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MISSILE_DAMAGE_II" category="TOWER_DAMAGE" values="1.3" price="6750" level="2" x="6480" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_DAMAGE_III" category="TOWER_DAMAGE" values="2.1" price="22500" level="3" x="6640" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_DAMAGE_IV" category="TOWER_DAMAGE" values="2.9" price="50000" level="4" x="6800" y="3440" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_DAMAGE_V" category="TOWER_DAMAGE" values="3.7" price="100000" level="5" x="6960" y="3280" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_ATTACK_SPEED_I" category="TOWER_ATTACK_SPEED" values="0.012" price="1750" level="1" x="6000" y="3920" pivot-x="0" pivot-y="0">
+      <u name="TOWER_MISSILE_ATTACK_SPEED_II" category="TOWER_ATTACK_SPEED" values="0.025" price="4100" level="2" x="6160" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_ATTACK_SPEED_III" category="TOWER_ATTACK_SPEED" values="0.04" price="14500" level="3" x="6320" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_ATTACK_SPEED_IV" category="TOWER_ATTACK_SPEED" values="0.055" price="32000" level="4" x="6480" y="3440" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_ATTACK_SPEED_V" category="TOWER_ATTACK_SPEED" values="0.07" price="64000" level="5" x="6640" y="3280" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_ROTATION_N_PROJECTILE_SPEED_I" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.16,1.8" price="1450" level="1" x="6480" y="4240" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MISSILE_ROTATION_N_PROJECTILE_SPEED_II" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.34,3.7" price="5850" level="2" x="6640" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_ROTATION_N_PROJECTILE_SPEED_III" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.54,5.8" price="14750" level="3" x="6800" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_ROTATION_N_PROJECTILE_SPEED_IV" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.74,7.9" price="32000" level="4" x="6960" y="4720" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_ROTATION_N_PROJECTILE_SPEED_V" category="TOWER_ROTATION_N_PROJECTILE_SPEED" values="0.94,10" price="64000" level="5" x="7120" y="4720" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_U_PROJECTILE_EXPLOSION_RANGE_I" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.015" price="2350" level="1" x="6640" y="3920" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MISSILE_U_PROJECTILE_EXPLOSION_RANGE_II" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.03" price="9500" level="2" x="6800" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_U_PROJECTILE_EXPLOSION_RANGE_III" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.05" price="27500" level="3" x="6960" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_U_PROJECTILE_EXPLOSION_RANGE_IV" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.07" price="60000" level="4" x="7120" y="3600" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_U_PROJECTILE_EXPLOSION_RANGE_V" category="TOWER_U_PROJECTILE_EXPLOSION_RANGE" values="0.09" price="120000" level="5" x="7280" y="3600" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_U_LRM_AIM_TIME_I" category="TOWER_U_LRM_AIM_TIME" values="-0.12" price="2100" level="1" x="6640" y="4240" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MISSILE_U_LRM_AIM_TIME_II" category="TOWER_U_LRM_AIM_TIME" values="-0.25" price="9500" level="2" x="6800" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_U_LRM_AIM_TIME_III" category="TOWER_U_LRM_AIM_TIME" values="-0.4" price="29500" level="3" x="6960" y="4560" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_U_LRM_AIM_TIME_IV" category="TOWER_U_LRM_AIM_TIME" values="-0.55" price="64000" level="4" x="7120" y="4560" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_U_LRM_AIM_TIME_V" category="TOWER_U_LRM_AIM_TIME" values="-0.7" price="128000" level="5" x="7280" y="4560" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_S_MINIMUM_RANGE_I" category="TOWER_S_MINIMUM_RANGE" values="-0.06" price="1600" level="1" x="6800" y="4240" pivot-x="-160" pivot-y="-160">
+      <u name="TOWER_MISSILE_S_MINIMUM_RANGE_II" category="TOWER_S_MINIMUM_RANGE" values="-0.13" price="5700" level="2" x="6960" y="4400" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_S_MINIMUM_RANGE_III" category="TOWER_S_MINIMUM_RANGE" values="-0.21" price="13800" level="3" x="7120" y="4400" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_S_MINIMUM_RANGE_IV" category="TOWER_S_MINIMUM_RANGE" values="-0.29" price="30000" level="4" x="7280" y="4400" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_S_MINIMUM_RANGE_V" category="TOWER_S_MINIMUM_RANGE" values="-0.37" price="60000" level="5" x="7440" y="4400" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_S_MISSILE_ROTATION_SPEED_I" category="TOWER_S_MISSILE_ROTATION_SPEED" values="0.2" price="1700" level="1" x="6800" y="3920" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MISSILE_S_MISSILE_ROTATION_SPEED_II" category="TOWER_S_MISSILE_ROTATION_SPEED" values="0.42" price="6100" level="2" x="6960" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_S_MISSILE_ROTATION_SPEED_III" category="TOWER_S_MISSILE_ROTATION_SPEED" values="0.67" price="17500" level="3" x="7120" y="3760" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_S_MISSILE_ROTATION_SPEED_IV" category="TOWER_S_MISSILE_ROTATION_SPEED" values="0.92" price="38000" level="4" x="7280" y="3760" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_S_MISSILE_ROTATION_SPEED_V" category="TOWER_S_MISSILE_ROTATION_SPEED" values="1.17" price="76000" level="5" x="7440" y="3760" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+    <u name="TOWER_MISSILE_S_MISSILE_LIFE_TIME_I" category="TOWER_S_MISSILE_LIFE_TIME" values="0.5" price="1400" level="1" x="6480" y="3920" pivot-x="-160" pivot-y="160">
+      <u name="TOWER_MISSILE_S_MISSILE_LIFE_TIME_II" category="TOWER_S_MISSILE_LIFE_TIME" values="1.1" price="5700" level="2" x="6640" y="3760" pivot-x="0" pivot-y="0">
+        <u name="TOWER_MISSILE_S_MISSILE_LIFE_TIME_III" category="TOWER_S_MISSILE_LIFE_TIME" values="1.85" price="13000" level="3" x="6800" y="3600" pivot-x="0" pivot-y="0">
+          <u name="TOWER_MISSILE_S_MISSILE_LIFE_TIME_IV" category="TOWER_S_MISSILE_LIFE_TIME" values="2.6" price="29000" level="4" x="6960" y="3440" pivot-x="0" pivot-y="0">
+            <u name="TOWER_MISSILE_S_MISSILE_LIFE_TIME_V" category="TOWER_S_MISSILE_LIFE_TIME" values="3.35" price="58000" level="5" x="7120" y="3440" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="FORCE_WAVE_ABILITY" category="FORCE_WAVE_ABILITY" values="8" price="0" level="0" x="3760" y="3760" pivot-x="0" pivot-y="0">
+    <u name="GAME_SPEED_X2" category="GAME_SPEED_X2" values="0" price="0" level="0" x="3600" y="3760" pivot-x="0" pivot-y="0">
+      <u name="GAME_SPEED_X4" category="GAME_SPEED_X4" values="0" price="7500" level="0" x="3440" y="3600" pivot-x="0" pivot-y="0"/>
+    </u>
+    <u name="FORCED_WAVE_BONUS_I" category="FORCED_WAVE_BONUS" values="9" price="200" level="1" x="3760" y="3600" pivot-x="0" pivot-y="0">
+      <u name="FORCED_WAVE_BONUS_II" category="FORCED_WAVE_BONUS" values="10.25" price="600" level="2" x="3600" y="3440" pivot-x="0" pivot-y="0">
+        <u name="FORCED_WAVE_BONUS_III" category="FORCED_WAVE_BONUS" values="11.5" price="2000" level="3" x="3440" y="3280" pivot-x="0" pivot-y="0">
+          <u name="FORCED_WAVE_BONUS_IV" category="FORCED_WAVE_BONUS" values="13.25" price="7500" level="4" x="3280" y="3280" pivot-x="0" pivot-y="0">
+            <u name="FORCED_WAVE_BONUS_V" category="FORCED_WAVE_BONUS" values="15" price="20000" level="5" x="3120" y="3280" pivot-x="0" pivot-y="0"/>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="STARTING_MONEY_I" category="STARTING_MONEY" values="5" price="150" level="1" x="4400" y="4240" pivot-x="-160" pivot-y="-160">
+    <u name="STARTING_MONEY_II" category="STARTING_MONEY" values="15" price="600" level="2" x="4240" y="4240" pivot-x="0" pivot-y="0">
+      <u name="STARTING_MONEY_III" category="STARTING_MONEY" values="30" price="2000" level="3" x="4400" y="4400" pivot-x="0" pivot-y="0">
+        <u name="STARTING_MONEY_IV" category="STARTING_MONEY" values="50" price="6250" level="4" x="4560" y="4400" pivot-x="0" pivot-y="0">
+          <u name="STARTING_MONEY_V" category="STARTING_MONEY" values="75" price="18000" level="5" x="4720" y="4560" pivot-x="0" pivot-y="0"/>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="STARTING_HEALTH_I" category="STARTING_HEALTH" values="5" price="100" level="1" x="4240" y="5840" pivot-x="-160" pivot-y="-160">
+    <u name="STARTING_HEALTH_II" category="STARTING_HEALTH" values="12" price="375" level="2" x="4400" y="6000" pivot-x="0" pivot-y="0">
+      <u name="STARTING_HEALTH_III" category="STARTING_HEALTH" values="21" price="1200" level="3" x="4560" y="6000" pivot-x="0" pivot-y="0">
+        <u name="STARTING_HEALTH_IV" category="STARTING_HEALTH" values="33" price="3750" level="4" x="4720" y="6000" pivot-x="0" pivot-y="0">
+          <u name="STARTING_HEALTH_V" category="STARTING_HEALTH" values="50" price="12000" level="5" x="4880" y="6000" pivot-x="0" pivot-y="0"/>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="WAVE_DELAY_I" category="WAVE_DELAY" values="17" price="75" level="1" x="4240" y="2960" pivot-x="-160" pivot-y="160">
+    <u name="WAVE_DELAY_II" category="WAVE_DELAY" values="19" price="300" level="2" x="4240" y="2800" pivot-x="0" pivot-y="0">
+      <u name="WAVE_DELAY_III" category="WAVE_DELAY" values="21" price="1000" level="3" x="4240" y="2640" pivot-x="0" pivot-y="0">
+        <u name="WAVE_DELAY_IV" category="WAVE_DELAY" values="23" price="3000" level="4" x="4240" y="2480" pivot-x="0" pivot-y="0">
+          <u name="WAVE_DELAY_V" category="WAVE_DELAY" values="25" price="9000" level="5" x="4240" y="2320" pivot-x="0" pivot-y="0"/>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="TOWER_SELL_REFUND_I" category="TOWER_SELL_REFUND" values="55" price="120" level="1" x="3920" y="3120" pivot-x="160" pivot-y="160">
+    <u name="TOWER_SELL_REFUND_II" category="TOWER_SELL_REFUND" values="62" price="300" level="2" x="3920" y="2960" pivot-x="0" pivot-y="0">
+      <u name="TOWER_SELL_REFUND_III" category="TOWER_SELL_REFUND" values="68" price="750" level="3" x="3920" y="2800" pivot-x="0" pivot-y="0">
+        <u name="TOWER_SELL_REFUND_IV" category="TOWER_SELL_REFUND" values="75" price="2200" level="4" x="3920" y="2640" pivot-x="0" pivot-y="0">
+          <u name="TOWER_SELL_REFUND_V" category="TOWER_SELL_REFUND" values="85" price="5000" level="5" x="3920" y="2480" pivot-x="0" pivot-y="0"/>
+        </u>
+      </u>
+    </u>
+  </u>
+  <u name="GAME_PRIZES_MULTIPLIER_I" category="GAME_PRIZES_MULTIPLIER" values="1.03,2.06" price="8000" level="1" x="4240" y="3920" pivot-x="0" pivot-y="0">
+    <u name="GAME_PRIZES_MULTIPLIER_II" category="GAME_PRIZES_MULTIPLIER" values="1.08,2.16" price="13600" level="2" x="4400" y="3760" pivot-x="0" pivot-y="0">
+      <u name="GAME_PRIZES_MULTIPLIER_III" category="GAME_PRIZES_MULTIPLIER" values="1.16,2.32" price="22400" level="3" x="4560" y="3600" pivot-x="0" pivot-y="0">
+        <u name="GAME_PRIZES_MULTIPLIER_IV" category="GAME_PRIZES_MULTIPLIER" values="1.25,2.5" price="35900" level="4" x="4720" y="3440" pivot-x="0" pivot-y="0">
+          <u name="GAME_PRIZES_MULTIPLIER_V" category="GAME_PRIZES_MULTIPLIER" values="1.35,2.7" price="55600" level="5" x="4880" y="3280" pivot-x="0" pivot-y="0">
+            <u name="GAME_PRIZES_MULTIPLIER_VI" category="GAME_PRIZES_MULTIPLIER" values="1.46,2.92" price="83400" level="6" x="5040" y="3280" pivot-x="0" pivot-y="0">
+              <u name="GAME_PRIZES_MULTIPLIER_VII" category="GAME_PRIZES_MULTIPLIER" values="1.58,3.16" price="121000" level="7" x="4880" y="3440" pivot-x="0" pivot-y="0">
+                <u name="GAME_PRIZES_MULTIPLIER_VIII" category="GAME_PRIZES_MULTIPLIER" values="1.71,3.42" price="169400" level="8" x="4720" y="3600" pivot-x="0" pivot-y="0">
+                  <u name="GAME_PRIZES_MULTIPLIER_IX" category="GAME_PRIZES_MULTIPLIER" values="1.85,3.7" price="228700" level="9" x="4560" y="3760" pivot-x="0" pivot-y="0">
+                    <u name="GAME_PRIZES_MULTIPLIER_X" category="GAME_PRIZES_MULTIPLIER" values="2.0,4.0" price="300000" level="10" x="4400" y="3920" pivot-x="0" pivot-y="0"/>
+                  </u>
+                </u>
+              </u>
+            </u>
+          </u>
+        </u>
+      </u>
+    </u>
+  </u>
+</u>

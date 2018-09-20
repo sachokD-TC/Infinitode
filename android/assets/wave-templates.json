@@ -1,0 +1,211 @@
+{
+ "RegularOnly": {
+  "groups": [
+   {
+    "type": "regular",
+    "delay": "0",
+    "count": "12 + floor(pow(x, 0.65))",
+    "interval": "0.5",
+    "health": "40 + pow(x * 7.0,1.3)",
+    "speed": "1",
+    "bounty": "2",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    int prob = 10 - (int)(value / 28);\n    if (prob < 1) prob = 1;\n    if (value> 300) prob = 0;\n    return prob;",
+  "waveMessage": ""
+ },
+ "FastOnly": {
+  "groups": [
+   {
+    "type": "fast",
+    "delay": "0",
+    "count": "10 + floor(pow(x * 0.8, 0.65))",
+    "interval": "0.6",
+    "health": "2.95 + pow(x * 0.45,1.695)",
+    "speed": "1.4 + sqrt(pow(x / 1500, 1.25))",
+    "bounty": "4 + pow(x, 0.55)",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    if (value < 7) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(difficulty / 10);\n        if (prob > 5) prob = 5;\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "StrongOnly": {
+  "groups": [
+   {
+    "type": "strong",
+    "delay": "0",
+    "count": "5 + floor(pow(x * 0.4, 0.65))",
+    "interval": "0.75",
+    "health": "8.2 + pow(x * 0.69,1.7)",
+    "speed": "0.85",
+    "bounty": "8 + pow(x * 2, 0.6)",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    if (value < 15) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(value / 15);\n        if (prob > 4) prob = 4;\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "DenseRegular": {
+  "groups": [
+   {
+    "type": "regular",
+    "delay": "0",
+    "count": "16 + floor(pow(x * 1.2, 0.65))",
+    "interval": "0.25",
+    "health": "4.1 + pow(x * 0.4,1.67)",
+    "speed": "1",
+    "bounty": "2 + pow(x * 0.45, 0.6)",
+    "_opened": 1,
+    "exp": "0.75"
+   }
+  ],
+  "probability": "    if (value < 20) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(value / 50);\n        if (prob > 5) prob = 5;\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "AirOnly": {
+  "groups": [
+   {
+    "type": "air",
+    "delay": "0",
+    "count": "6 + floor(pow(x / 12, 0.65))",
+    "interval": "0.5",
+    "health": "3.4 + pow(x * 0.5,1.7)",
+    "speed": "1",
+    "bounty": "4 + pow(x, 0.6)",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    if (value < 10) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(value / 20);\n        if (prob > 4) prob = 4;\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "JetOnly": {
+  "groups": [
+   {
+    "type": "jet",
+    "delay": "0",
+    "count": "6 + floor(pow(x / 10, 0.7))",
+    "interval": "0.5",
+    "health": "1.7 + pow(x * 0.21,1.71)",
+    "speed": "1.25",
+    "bounty": "4 + pow(x, 0.6)",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    if (value < 75) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(value / 70);\n        if (prob > 5) prob = 5;\n\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "Boss": {
+  "groups": [
+   {
+    "type": "armored",
+    "delay": "0",
+    "count": "2 + floor(pow(x / 12, 0.6))",
+    "interval": "0.5",
+    "health": "2.0 + pow(x * 0.35,1.68)",
+    "speed": "1",
+    "bounty": "4 + pow(x, 0.6)",
+    "_opened": 1,
+    "exp": "2"
+   },
+   {
+    "type": "fast",
+    "delay": "0",
+    "count": "3 + floor(pow(x / 8, 0.6))",
+    "interval": "0.65",
+    "health": "2.45 + pow(x * 0.4,1.695)",
+    "speed": "1.5",
+    "bounty": "4 + pow(x, 0.6)",
+    "_opened": 1,
+    "exp": "1"
+   },
+   {
+    "type": "fighter",
+    "delay": "0",
+    "count": "1",
+    "interval": "0.5",
+    "health": "10 + pow(x * 1.2,1.75)",
+    "speed": "0.95",
+    "bounty": "24 + pow(x * 5, 0.6)",
+    "_opened": 1,
+    "exp": "10"
+   }
+  ],
+  "probability": "    if (wave % 20 == 0) {\n        return 101;\n    } else {\n        return 0;\n    }",
+  "waveMessage": "[#F44336]Boss wave[]"
+ },
+ "SuperBoss": {
+  "groups": [
+   {
+    "type": "boss",
+    "delay": "0",
+    "count": "1",
+    "interval": "0.5",
+    "health": "28 + pow(x * 1.92, 1.83)",
+    "speed": "0.7",
+    "bounty": "100 + pow(x * 70, 0.75)",
+    "_opened": 1,
+    "exp": "25"
+   }
+  ],
+  "probability": "    if (wave % 100 == 0) {\n        return 102;\n    } else {\n        return 0;\n    }",
+  "waveMessage": "[#F44336]Super Boss wave![]"
+ },
+ "LightOnly": {
+  "groups": [
+   {
+    "type": "light",
+    "delay": "0",
+    "count": "10 + floor(pow(x, 0.6))",
+    "interval": "0.4",
+    "health": "4.1 + pow(x * 0.50,1.68)",
+    "speed": "1.05",
+    "bounty": "4 + pow(x * 0.95, 0.55)",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    if (value < 40) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(value / 35);\n        if (prob > 5) prob = 5;\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "IcyOnly": {
+  "groups": [
+   {
+    "type": "icy",
+    "delay": "0",
+    "count": "24 + floor(pow(x * 1.5, 0.7))",
+    "interval": "0.2",
+    "health": "5.4 + pow(x * 0.59,1.51)",
+    "speed": "0.9",
+    "bounty": "1.5 + pow(x * 0.26, 0.6)",
+    "_opened": 1,
+    "exp": "0.5"
+   }
+  ],
+  "probability": "    if (value < 40) {\n        return 0;\n    } else {\n        int prob = 1 + (int)(value/ 80);\n        if (prob > 4) prob = 4;\n        return prob;\n    }",
+  "waveMessage": ""
+ },
+ "ToxicOnly": {
+  "groups": [
+   {
+    "type": "toxic",
+    "delay": "0",
+    "count": "7 + floor(pow(x * 0.55, 0.62))",
+    "interval": "0.65",
+    "health": "4.1 + pow(x * 0.49,1.67)",
+    "speed": "1",
+    "bounty": "3.5 + pow(x * 0.94, 0.55)",
+    "_opened": 1,
+    "exp": "1"
+   }
+  ],
+  "probability": "    if (value < 120) {\n        return 0;\n    } else {\n        int prob = 1 + (int)((value - 120) / 20);\n        if (prob > 5) prob = 5;\n        if (prob >= 5) {\n            prob -= (int)((value - 240) / 40);\n            if (prob < 0) prob = 0;\n        }\n        return prob;\n    }",
+  "waveMessage": ""
+ }
+}

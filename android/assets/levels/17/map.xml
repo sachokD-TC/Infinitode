@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<map width="29" height="13">
+  <tile x="9" y="2" type="ROAD"/>
+  <tile x="10" y="2" type="ROAD"/>
+  <tile x="11" y="2" type="ROAD"/>
+  <tile x="12" y="2" type="ROAD"/>
+  <tile x="13" y="2" type="ROAD"/>
+  <tile x="14" y="2" type="ROAD"/>
+  <tile x="15" y="2" type="ROAD"/>
+  <tile x="9" y="3" type="ROAD"/>
+  <tile x="10" y="3" type="SPACE">
+    <uniqueBonusLevel>2</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="11" y="3" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="ROTATION_SPEED" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="12" y="3" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="13" y="3" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="14" y="3" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="RANGE" level="1"/>
+    </bonuses>
+  </tile>
+  <tile x="15" y="3" type="ROAD"/>
+  <tile x="1" y="4" type="ROAD"/>
+  <tile x="2" y="4" type="ROAD"/>
+  <tile x="3" y="4" type="ROAD"/>
+  <tile x="4" y="4" type="ROAD"/>
+  <tile x="5" y="4" type="ROAD"/>
+  <tile x="6" y="4" type="ROAD"/>
+  <tile x="7" y="4" type="ROAD"/>
+  <tile x="8" y="4" type="ROAD"/>
+  <tile x="9" y="4" type="ROAD"/>
+  <tile x="10" y="4" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="11" y="4" type="ROAD"/>
+  <tile x="12" y="4" type="ROAD"/>
+  <tile x="13" y="4" type="ROAD"/>
+  <tile x="14" y="4" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="15" y="4" type="ROAD"/>
+  <tile x="16" y="4" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="17" y="4" type="ROAD"/>
+  <tile x="18" y="4" type="ROAD"/>
+  <tile x="19" y="4" type="ROAD"/>
+  <tile x="20" y="4" type="ROAD"/>
+  <tile x="21" y="4" type="ROAD"/>
+  <tile x="22" y="4" type="ROAD"/>
+  <tile x="23" y="4" type="ROAD"/>
+  <tile x="24" y="4" type="ROAD"/>
+  <tile x="25" y="4" type="ROAD"/>
+  <tile x="26" y="4" type="ROAD"/>
+  <tile x="27" y="4" type="ROAD"/>
+  <tile x="1" y="5" type="ROAD"/>
+  <tile x="2" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="3" y="5" type="SPACE">
+    <uniqueBonusLevel>1</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="4" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="DAMAGE" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="5" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="CHAIN_LIGHTNING_DAMAGE" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="6" y="5" type="SPACE">
+    <uniqueBonusLevel>3</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="7" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="8" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="9" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="10" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="RANGE" level="2"/>
+      <bonus stat="DAMAGE" level="1"/>
+    </bonuses>
+  </tile>
+  <tile x="11" y="5" type="ROAD"/>
+  <tile x="12" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="13" y="5" type="ROAD"/>
+  <tile x="14" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="15" y="5" type="ROAD"/>
+  <tile x="16" y="5" type="SPACE">
+    <uniqueBonusLevel>1</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="DAMAGE" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="17" y="5" type="ROAD"/>
+  <tile x="18" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="19" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="20" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="21" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="22" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="AIM_TIME" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="23" y="5" type="SPACE">
+    <uniqueBonusLevel>1</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="24" y="5" type="SPACE">
+    <uniqueBonusLevel>1</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="25" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="STUN_CHANCE" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="26" y="5" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="27" y="5" type="ROAD"/>
+  <tile x="1" y="6" type="ROAD"/>
+  <tile x="2" y="6" type="ROAD"/>
+  <tile x="3" y="6" type="ROAD"/>
+  <tile x="4" y="6" type="ROAD"/>
+  <tile x="5" y="6" type="ROAD"/>
+  <tile x="6" y="6" type="ROAD"/>
+  <tile x="7" y="6" type="ROAD"/>
+  <tile x="8" y="6" type="ROAD"/>
+  <tile x="9" y="6" type="SPAWN">
+    <difficulty>1</difficulty>
+  </tile>
+  <tile x="10" y="6" type="SPACE">
+    <uniqueBonusLevel>2</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="DAMAGE" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="11" y="6" type="ROAD"/>
+  <tile x="12" y="6" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="13" y="6" type="ROAD"/>
+  <tile x="14" y="6" type="SPACE">
+    <uniqueBonusLevel>3</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="RANGE" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="15" y="6" type="ROAD"/>
+  <tile x="16" y="6" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="17" y="6" type="ROAD"/>
+  <tile x="18" y="6" type="SPACE">
+    <uniqueBonusLevel>2</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="ATTACK_SPEED" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="19" y="6" type="TARGET"/>
+  <tile x="20" y="6" type="ROAD"/>
+  <tile x="21" y="6" type="ROAD"/>
+  <tile x="22" y="6" type="ROAD"/>
+  <tile x="23" y="6" type="ROAD"/>
+  <tile x="24" y="6" type="ROAD"/>
+  <tile x="25" y="6" type="ROAD"/>
+  <tile x="26" y="6" type="ROAD"/>
+  <tile x="27" y="6" type="ROAD"/>
+  <tile x="1" y="7" type="ROAD"/>
+  <tile x="2" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="POISON_DAMAGE" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="3" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="4" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="5" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="PROJECTILE_SPEED" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="6" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="7" y="7" type="SPACE">
+    <uniqueBonusLevel>1</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="8" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="9" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="10" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="11" y="7" type="ROAD"/>
+  <tile x="12" y="7" type="SPACE">
+    <uniqueBonusLevel>2</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="13" y="7" type="ROAD"/>
+  <tile x="14" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="15" y="7" type="ROAD"/>
+  <tile x="16" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="DAMAGE" level="2"/>
+      <bonus stat="ATTACK_SPEED" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="17" y="7" type="ROAD"/>
+  <tile x="18" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="19" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="20" y="7" type="SPACE">
+    <uniqueBonusLevel>3</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="POISON_DAMAGE" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="21" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="22" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="23" y="7" type="SPACE">
+    <uniqueBonusLevel>2</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="FREEZE_PERCENT" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="24" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="CHAIN_LIGHTNING_DAMAGE" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="25" y="7" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="26" y="7" type="SPACE">
+    <uniqueBonusLevel>1</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="27" y="7" type="ROAD"/>
+  <tile x="1" y="8" type="ROAD"/>
+  <tile x="2" y="8" type="ROAD"/>
+  <tile x="3" y="8" type="ROAD"/>
+  <tile x="4" y="8" type="ROAD"/>
+  <tile x="5" y="8" type="ROAD"/>
+  <tile x="6" y="8" type="ROAD"/>
+  <tile x="7" y="8" type="ROAD"/>
+  <tile x="8" y="8" type="ROAD"/>
+  <tile x="9" y="8" type="ROAD"/>
+  <tile x="10" y="8" type="ROAD"/>
+  <tile x="11" y="8" type="ROAD"/>
+  <tile x="12" y="8" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="RANGE" level="2"/>
+    </bonuses>
+  </tile>
+  <tile x="13" y="8" type="ROAD"/>
+  <tile x="14" y="8" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="15" y="8" type="ROAD"/>
+  <tile x="16" y="8" type="ROAD"/>
+  <tile x="17" y="8" type="ROAD"/>
+  <tile x="18" y="8" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="ATTACK_SPEED" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="19" y="8" type="ROAD"/>
+  <tile x="20" y="8" type="ROAD"/>
+  <tile x="21" y="8" type="ROAD"/>
+  <tile x="22" y="8" type="ROAD"/>
+  <tile x="23" y="8" type="ROAD"/>
+  <tile x="24" y="8" type="ROAD"/>
+  <tile x="25" y="8" type="ROAD"/>
+  <tile x="26" y="8" type="ROAD"/>
+  <tile x="27" y="8" type="ROAD"/>
+  <tile x="13" y="9" type="ROAD"/>
+  <tile x="14" y="9" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="15" y="9" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses>
+      <bonus stat="ACCURACY" level="3"/>
+    </bonuses>
+  </tile>
+  <tile x="16" y="9" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="17" y="9" type="SPACE">
+    <uniqueBonusLevel>2</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="18" y="9" type="SPACE">
+    <uniqueBonusLevel>0</uniqueBonusLevel>
+    <bonuses/>
+  </tile>
+  <tile x="19" y="9" type="ROAD"/>
+  <tile x="13" y="10" type="ROAD"/>
+  <tile x="14" y="10" type="ROAD"/>
+  <tile x="15" y="10" type="ROAD"/>
+  <tile x="16" y="10" type="ROAD"/>
+  <tile x="17" y="10" type="ROAD"/>
+  <tile x="18" y="10" type="ROAD"/>
+  <tile x="19" y="10" type="ROAD"/>
+</map>
